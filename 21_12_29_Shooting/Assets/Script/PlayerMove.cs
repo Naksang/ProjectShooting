@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+    public GameObject FireSource;
+
     float _speed = 5.0f;
 
     void Start()
@@ -19,5 +21,11 @@ public class PlayerMove : MonoBehaviour
         Vector3 dir = Vector3.right * h + Vector3.up * v;
 
         this.transform.Translate(dir * _speed * Time.deltaTime);
+
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            GameObject fire = FireSource;
+            fire.transform.position = this.transform.position;
+        }
     }
 }

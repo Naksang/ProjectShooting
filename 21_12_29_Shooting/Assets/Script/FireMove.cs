@@ -4,11 +4,17 @@ using UnityEngine;
 
 public class FireMove : MonoBehaviour
 {
-    public float _speed = 5.0f;
+    float _speed = 5.0f;
+
+    Vector3 dir;
+
+    void Start()
+    {
+        dir = Vector3.up;
+    }
 
     void Update()
     {
-        Vector3 dir = Vector3.up;
-        this.transform.position += dir * _speed * Time.deltaTime;
+        this.transform.Translate(dir * _speed * Time.deltaTime);
     }
 }
