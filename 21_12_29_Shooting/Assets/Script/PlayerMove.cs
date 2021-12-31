@@ -6,11 +6,14 @@ public class PlayerMove : MonoBehaviour
 {
     public GameObject FireSource;
 
+    [SerializeField]
+    GameObject[] _playerSprite;
+
     float _speed = 5.0f;
 
     void Start()
     {
-       
+
 
     }
 
