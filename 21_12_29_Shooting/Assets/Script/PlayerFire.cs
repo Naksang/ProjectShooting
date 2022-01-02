@@ -4,22 +4,33 @@ using UnityEngine;
 
 public class PlayerFire : MonoBehaviour
 {
-    public GameObject _source = null;
+    public GameObject _fireSource;
 
-    List<GameObject> _fireObjectPool;
+    public Transform _firePos;
 
-    int _poolSize = 50;
-    
+    float _initTime;
+    float _createTime = 0.2f;
 
     void Start()
     {
-        _fireObjectPool = new List<GameObject>();
-        for (int i = 0; i < _poolSize; i++)
+        _initTime = _createTime;
+        _firePos = GetComponentInChildren<Transform>().Find("firePos");
+    }
+
+    private void Update()
+    {
+        _initTime += Time.deltaTime;
+
+        if(Input.GetKey(KeyCode.Space))
         {
-            GameObject fire = Instantiate(_source);
-            _fireObjectPool.Add(fire);
-            fire.SetActive(false);
-            fire.transform.position = this.transform.position;
+            if (_initTime > _createTime)
+            {
+                GameObject fire = _fireSource;
+                Instantiate(fire);
+                fire.transform.position = _firePos.position;
+
+                _initTime = 0;
+            }
         }
     }
 }

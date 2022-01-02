@@ -4,17 +4,12 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-    public GameObject FireSource;
-
-    [SerializeField]
-    GameObject[] _playerSprite;
-
     float _speed = 5.0f;
+    Transform _playertrans;
 
-    void Start()
+    private void Start()
     {
-
-
+        _playertrans = this.transform.GetChild(0);
     }
 
     void Update()
@@ -25,10 +20,30 @@ public class PlayerMove : MonoBehaviour
 
         this.transform.Translate(dir * _speed * Time.deltaTime);
 
-        if(Input.GetKeyDown(KeyCode.Space))
+        Vector3 viewPos = Camera.main.WorldToViewportPoint(transform.position);
+        viewPos.x = Mathf.Clamp01(viewPos.x);
+        viewPos.y = Mathf.Clamp01(viewPos.y);
+        Vector3 worldPos = Camera.main.ViewportToWorldPoint(viewPos);
+        transform.position = worldPos;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.CompareTag("Enemy"))
         {
-            GameObject fire = FireSource;
-            fire.transform.position = this.transform.position;
-        }
+            StartCoroutine(PlayerBlink());
+            
+        }    
+    }
+
+    IEnumerator PlayerBlink()
+    {
+        _playertrans.gameObject.SetActive(false);
+        yield return new WaitForSeconds(0.3f);
+        _playertrans.gameObject.SetActive(true);
+        yield return new WaitForSeconds(0.3f);
+        _playertrans.gameObject.SetActive(false);
+        yield return new WaitForSeconds(0.3f);
+        _playertrans.gameObject.SetActive(true);
     }
 }

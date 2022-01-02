@@ -7,265 +7,265 @@ TextureImporter:
     second: stgpics_basic_0
   - first:
       213: 21300002
-    second: stgpics_basic_1
+    second: enemy_bullets_5_0
   - first:
       213: 21300004
-    second: stgpics_basic_2
+    second: enemy_bullets_5_1
   - first:
       213: 21300006
-    second: stgpics_basic_3
+    second: enemy_bullets_5_2
   - first:
       213: 21300008
-    second: stgpics_basic_4
+    second: enemy_bullets_5_3
   - first:
       213: 21300010
-    second: stgpics_basic_5
+    second: enemy_bullets_6_0
   - first:
       213: 21300012
-    second: stgpics_basic_6
+    second: enemy_bullets_6_1
   - first:
       213: 21300014
-    second: stgpics_basic_7
+    second: enemy_bullets_6_2
   - first:
       213: 21300016
-    second: stgpics_basic_8
+    second: enemy_bullets_6_3
   - first:
       213: 21300018
-    second: stgpics_basic_9
+    second: enemy_bullets_4_0
   - first:
       213: 21300020
-    second: stgpics_basic_10
+    second: enemy_bullets_4_1
   - first:
       213: 21300022
-    second: stgpics_basic_11
+    second: enemy_bullets_4_2
   - first:
       213: 21300024
-    second: stgpics_basic_12
+    second: enemy_bullets_4_3
   - first:
       213: 21300026
-    second: stgpics_basic_13
+    second: enemy_bullets_8_0
   - first:
       213: 21300028
     second: stgpics_basic_14
   - first:
       213: 21300030
-    second: stgpics_basic_15
+    second: enemy_bullets_8_2
   - first:
       213: 21300032
     second: stgpics_basic_16
   - first:
       213: 21300034
-    second: stgpics_basic_17
+    second: enemy_bullets_17_0
   - first:
       213: 21300036
-    second: stgpics_basic_18
+    second: enemy_bullets_17_1
   - first:
       213: 21300038
-    second: stgpics_basic_19
+    second: enemy_bullets_17_2
   - first:
       213: 21300040
-    second: stgpics_basic_20
+    second: enemy_bullets_17_3
   - first:
       213: 21300042
-    second: stgpics_basic_21
+    second: enemy_bullets_21_0
   - first:
       213: 21300044
-    second: stgpics_basic_22
+    second: enemy_bullets_21_1
   - first:
       213: 21300046
-    second: stgpics_basic_23
+    second: enemy_bullets_21_2
   - first:
       213: 21300048
-    second: stgpics_basic_24
+    second: enemy_bullets_24_0
   - first:
       213: 21300050
-    second: stgpics_basic_25
+    second: enemy_bullets_24_1
   - first:
       213: 21300052
-    second: stgpics_basic_26
+    second: enemy_bullets_24_2
   - first:
       213: 21300054
-    second: stgpics_basic_27
+    second: enemy_bullets_24_3
   - first:
       213: 21300056
-    second: stgpics_basic_28
+    second: enemy_bullets_27_0
   - first:
       213: 21300058
-    second: stgpics_basic_29
+    second: enemy_bullets_27_1
   - first:
       213: 21300060
-    second: stgpics_basic_30
+    second: enemy_bullets_27_2
   - first:
       213: 21300062
-    second: stgpics_basic_31
+    second: enemy_bullets_27_3
   - first:
       213: 21300064
-    second: stgpics_basic_32
+    second: enemy_bullets_7_0
   - first:
       213: 21300066
-    second: stgpics_basic_33
+    second: enemy_bullets_7_1
   - first:
       213: 21300068
-    second: stgpics_basic_34
+    second: enemy_bullets_7_2
   - first:
       213: 21300070
-    second: stgpics_basic_35
+    second: enemy_bullets_7_3
   - first:
       213: 21300072
-    second: stgpics_basic_36
+    second: enemy_bullets_9_0
   - first:
       213: 21300074
-    second: stgpics_basic_37
+    second: enemy_bullets_9_1
   - first:
       213: 21300076
-    second: stgpics_basic_38
+    second: enemy_bullets_9_2
   - first:
       213: 21300078
-    second: stgpics_basic_39
+    second: enemy_bullets_9_3
   - first:
       213: 21300080
-    second: stgpics_basic_40
+    second: enemy_bullets_10_0
   - first:
       213: 21300082
-    second: stgpics_basic_41
+    second: enemy_bullets_10_1
   - first:
       213: 21300084
-    second: stgpics_basic_42
+    second: enemy_bullets_10_2
   - first:
       213: 21300086
-    second: stgpics_basic_43
+    second: enemy_bullets_10_3
   - first:
       213: 21300088
-    second: stgpics_basic_44
+    second: enemy_bullets_11_0
   - first:
       213: 21300090
-    second: stgpics_basic_45
+    second: enemy_bullets_11_1
   - first:
       213: 21300092
-    second: stgpics_basic_46
+    second: enemy_bullets_13_0
   - first:
       213: 21300094
-    second: stgpics_basic_47
+    second: enemy_bullets_13_1
   - first:
       213: 21300096
-    second: stgpics_basic_48
+    second: enemy_bullets_13_2
   - first:
       213: 21300098
-    second: stgpics_basic_49
+    second: enemy_bullets_13_3
   - first:
       213: 21300100
-    second: stgpics_basic_50
+    second: enemy_bullets_18_0
   - first:
       213: 21300102
-    second: stgpics_basic_51
+    second: enemy_bullets_18_1
   - first:
       213: 21300104
-    second: stgpics_basic_52
+    second: enemy_bullets_18_2
   - first:
       213: 21300106
-    second: stgpics_basic_53
+    second: enemy_bullets_18_3
   - first:
       213: 21300108
-    second: stgpics_basic_54
+    second: enemy_bullets_22_0
   - first:
       213: 21300110
-    second: stgpics_basic_55
+    second: enemy_bullets_22_1
   - first:
       213: 21300112
-    second: stgpics_basic_56
+    second: enemy_bullets_22_2
   - first:
       213: 21300114
-    second: stgpics_basic_57
+    second: enemy_bullets_25_0
   - first:
       213: 21300116
-    second: stgpics_basic_58
+    second: enemy_bullets_25_1
   - first:
       213: 21300118
-    second: stgpics_basic_59
+    second: enemy_bullets_25_2
   - first:
       213: 21300120
-    second: stgpics_basic_60
+    second: enemy_bullets_25_3
   - first:
       213: 21300122
-    second: stgpics_basic_61
+    second: enemy_bullets_28_0
   - first:
       213: 21300124
-    second: stgpics_basic_62
+    second: enemy_bullets_28_1
   - first:
       213: 21300126
-    second: stgpics_basic_63
+    second: enemy_bullets_28_2
   - first:
       213: 21300128
-    second: stgpics_basic_64
+    second: enemy_bullets_28_3
   - first:
       213: 21300130
-    second: stgpics_basic_65
+    second: enemy_bullets_14_0
   - first:
       213: 21300132
-    second: stgpics_basic_66
+    second: enemy_bullets_14_1
   - first:
       213: 21300134
-    second: stgpics_basic_67
+    second: enemy_bullets_15_0
   - first:
       213: 21300136
-    second: stgpics_basic_68
+    second: enemy_bullets_15_1
   - first:
       213: 21300138
-    second: stgpics_basic_69
+    second: enemy_bullets_15_2
   - first:
       213: 21300140
-    second: stgpics_basic_70
+    second: enemy_bullets_15_3
   - first:
       213: 21300142
-    second: stgpics_basic_71
+    second: enemy_bullets_26_0
   - first:
       213: 21300144
-    second: stgpics_basic_72
+    second: enemy_bullets_29_0
   - first:
       213: 21300146
-    second: stgpics_basic_73
+    second: enemy_bullets_19_0
   - first:
       213: 21300148
-    second: stgpics_basic_74
+    second: enemy_bullets_19_1
   - first:
       213: 21300150
-    second: stgpics_basic_75
+    second: enemy_bullets_19_2
   - first:
       213: 21300152
-    second: stgpics_basic_76
+    second: enemy_bullets_19_3
   - first:
       213: 21300154
-    second: stgpics_basic_77
+    second: enemy_bullets_26_1
   - first:
       213: 21300156
-    second: stgpics_basic_78
+    second: enemy_bullets_26_2
   - first:
       213: 21300158
-    second: stgpics_basic_79
+    second: enemy_bullets_26_3
   - first:
       213: 21300160
-    second: stgpics_basic_80
+    second: enemy_bullets_29_1
   - first:
       213: 21300162
-    second: stgpics_basic_81
+    second: enemy_bullets_29_2
   - first:
       213: 21300164
-    second: stgpics_basic_82
+    second: enemy_bullets_29_3
   - first:
       213: 21300166
     second: player_left
   - first:
       213: 21300168
-    second: stgpics_basic_84
+    second: enemy_bullets_30_0
   - first:
       213: 21300170
-    second: stgpics_basic_85
+    second: enemy_bullets_30_1
   - first:
       213: 21300172
-    second: stgpics_basic_86
+    second: enemy_bullets_30_2
   - first:
       213: 21300174
-    second: stgpics_basic_87
+    second: enemy_bullets_30_3
   - first:
       213: 21300176
     second: player_center
@@ -499,7 +499,7 @@ TextureImporter:
     second: stgpics_basic_164
   - first:
       213: 21300330
-    second: stgpics_basic_165
+    second: player_bullets_
   - first:
       213: 21300332
     second: stgpics_basic_166
@@ -1207,106 +1207,106 @@ TextureImporter:
     second: stgpics_basic_400
   - first:
       213: 21300802
-    second: stgpics_basic_401
+    second: enemy_bullets_0_0
   - first:
       213: 21300804
-    second: stgpics_basic_402
+    second: enemy_bullets_0_1
   - first:
       213: 21300806
-    second: stgpics_basic_403
+    second: enemy_bullets_0_2
   - first:
       213: 21300808
-    second: stgpics_basic_404
+    second: enemy_bullets_0_3
   - first:
       213: 21300810
-    second: stgpics_basic_405
+    second: enemy_bullets_1_0
   - first:
       213: 21300812
-    second: stgpics_basic_406
+    second: enemy_bullets_1_1
   - first:
       213: 21300814
-    second: stgpics_basic_407
+    second: enemy_bullets_1_2
   - first:
       213: 21300816
-    second: stgpics_basic_408
+    second: enemy_bullets_1_3
   - first:
       213: 21300818
-    second: stgpics_basic_409
+    second: enemy_bullets_8_1
   - first:
       213: 21300820
-    second: stgpics_basic_410
+    second: enemy_bullets_8_3
   - first:
       213: 21300822
-    second: stgpics_basic_411
+    second: enemy_bullets_12_0
   - first:
       213: 21300824
-    second: stgpics_basic_412
+    second: enemy_bullets_12_1
   - first:
       213: 21300826
-    second: stgpics_basic_413
+    second: enemy_bullets_12_2
   - first:
       213: 21300828
-    second: stgpics_basic_414
+    second: enemy_bullets_12_3
   - first:
       213: 21300830
-    second: stgpics_basic_415
+    second: enemy_bullets_2_0
   - first:
       213: 21300832
-    second: stgpics_basic_416
+    second: enemy_bullets_2_1
   - first:
       213: 21300834
-    second: stgpics_basic_417
+    second: enemy_bullets_2_2
   - first:
       213: 21300836
-    second: stgpics_basic_418
+    second: enemy_bullets_2_3
   - first:
       213: 21300838
-    second: stgpics_basic_419
+    second: enemy_bullets_3_0
   - first:
       213: 21300840
-    second: stgpics_basic_420
+    second: enemy_bullets_3_1
   - first:
       213: 21300842
-    second: stgpics_basic_421
+    second: enemy_bullets_3_2
   - first:
       213: 21300844
-    second: stgpics_basic_422
+    second: enemy_bullets_3_3
   - first:
       213: 21300846
-    second: stgpics_basic_423
+    second: enemy_bullets_16_0
   - first:
       213: 21300848
-    second: stgpics_basic_424
+    second: enemy_bullets_16_1
   - first:
       213: 21300850
-    second: stgpics_basic_425
+    second: enemy_bullets_16_2
   - first:
       213: 21300852
-    second: stgpics_basic_426
+    second: enemy_bullets_16_3
   - first:
       213: 21300854
-    second: stgpics_basic_427
+    second: enemy_bullets_20_0
   - first:
       213: 21300856
-    second: stgpics_basic_428
+    second: enemy_bullets_20_1
   - first:
       213: 21300858
-    second: stgpics_basic_429
+    second: enemy_bullets_20_2
   - first:
       213: 21300860
-    second: stgpics_basic_430
+    second: enemy_bullets_20_3
   - first:
       213: 21300862
-    second: stgpics_basic_431
+    second: enemy_bullets_23_0
   - first:
       213: 21300864
-    second: stgpics_basic_432
+    second: enemy_bullets_23_1
   - first:
       213: 21300866
-    second: stgpics_basic_433
+    second: enemy_bullets_23_2
   - first:
       213: 21300868
-    second: stgpics_basic_434
+    second: enemy_bullets_23_3
   - first:
       213: 21300870
     second: homing_missile_0_r
@@ -1663,265 +1663,265 @@ TextureImporter:
     second: stgpics_basic_0
   - first:
       213: -3031066367353932261
-    second: stgpics_basic_1
+    second: enemy_bullets_5_0
   - first:
       213: 3911116648744836541
-    second: stgpics_basic_2
+    second: enemy_bullets_5_1
   - first:
       213: 8484337879350111075
-    second: stgpics_basic_3
+    second: enemy_bullets_5_2
   - first:
       213: 6921656531064656865
-    second: stgpics_basic_4
+    second: enemy_bullets_5_3
   - first:
       213: -2236105869106319027
-    second: stgpics_basic_5
+    second: enemy_bullets_6_0
   - first:
       213: 115146420195664275
-    second: stgpics_basic_6
+    second: enemy_bullets_6_1
   - first:
       213: -1616408097625391195
-    second: stgpics_basic_7
+    second: enemy_bullets_6_2
   - first:
       213: -4994117530900428301
-    second: stgpics_basic_8
+    second: enemy_bullets_6_3
   - first:
       213: 7543653393088595151
-    second: stgpics_basic_9
+    second: enemy_bullets_4_0
   - first:
       213: -3794273418089968147
-    second: stgpics_basic_10
+    second: enemy_bullets_4_1
   - first:
       213: -4243707764796119068
-    second: stgpics_basic_11
+    second: enemy_bullets_4_2
   - first:
       213: 8997210407057333710
-    second: stgpics_basic_12
+    second: enemy_bullets_4_3
   - first:
       213: 1857830996306353933
-    second: stgpics_basic_13
+    second: enemy_bullets_8_0
   - first:
       213: -3635398118820790092
     second: stgpics_basic_14
   - first:
       213: -2443086413868691185
-    second: stgpics_basic_15
+    second: enemy_bullets_8_2
   - first:
       213: -7915873593267158098
     second: stgpics_basic_16
   - first:
       213: -4656749218469196518
-    second: stgpics_basic_17
+    second: enemy_bullets_17_0
   - first:
       213: 3559497797432742888
-    second: stgpics_basic_18
+    second: enemy_bullets_17_1
   - first:
       213: 6144425245841562579
-    second: stgpics_basic_19
+    second: enemy_bullets_17_2
   - first:
       213: 5892214073009594739
-    second: stgpics_basic_20
+    second: enemy_bullets_17_3
   - first:
       213: -1799660505767449313
-    second: stgpics_basic_21
+    second: enemy_bullets_21_0
   - first:
       213: -1683048164880442823
-    second: stgpics_basic_22
+    second: enemy_bullets_21_1
   - first:
       213: 4038628986363753767
-    second: stgpics_basic_23
+    second: enemy_bullets_21_2
   - first:
       213: 2766426783032714996
-    second: stgpics_basic_24
+    second: enemy_bullets_24_0
   - first:
       213: 9212892017893646574
-    second: stgpics_basic_25
+    second: enemy_bullets_24_1
   - first:
       213: 6745664083046618146
-    second: stgpics_basic_26
+    second: enemy_bullets_24_2
   - first:
       213: -5942504701433187966
-    second: stgpics_basic_27
+    second: enemy_bullets_24_3
   - first:
       213: -281201460336629878
-    second: stgpics_basic_28
+    second: enemy_bullets_27_0
   - first:
       213: -8537721199260780259
-    second: stgpics_basic_29
+    second: enemy_bullets_27_1
   - first:
       213: 5037761125298712496
-    second: stgpics_basic_30
+    second: enemy_bullets_27_2
   - first:
       213: 3777002119501125667
-    second: stgpics_basic_31
+    second: enemy_bullets_27_3
   - first:
       213: 459821234581941536
-    second: stgpics_basic_32
+    second: enemy_bullets_7_0
   - first:
       213: -254870231732972304
-    second: stgpics_basic_33
+    second: enemy_bullets_7_1
   - first:
       213: 7408398441433316312
-    second: stgpics_basic_34
+    second: enemy_bullets_7_2
   - first:
       213: -6167743183417580568
-    second: stgpics_basic_35
+    second: enemy_bullets_7_3
   - first:
       213: -5188910973581241745
-    second: stgpics_basic_36
+    second: enemy_bullets_9_0
   - first:
       213: -8782297338896252177
-    second: stgpics_basic_37
+    second: enemy_bullets_9_1
   - first:
       213: 4434542577827073197
-    second: stgpics_basic_38
+    second: enemy_bullets_9_2
   - first:
       213: 6784293501252768540
-    second: stgpics_basic_39
+    second: enemy_bullets_9_3
   - first:
       213: 3592868314684160132
-    second: stgpics_basic_40
+    second: enemy_bullets_10_0
   - first:
       213: 1996606596120155071
-    second: stgpics_basic_41
+    second: enemy_bullets_10_1
   - first:
       213: 7068756441807245512
-    second: stgpics_basic_42
+    second: enemy_bullets_10_2
   - first:
       213: -9189934930664959826
-    second: stgpics_basic_43
+    second: enemy_bullets_10_3
   - first:
       213: 6196333050323646563
-    second: stgpics_basic_44
+    second: enemy_bullets_11_0
   - first:
       213: -659683642513997679
-    second: stgpics_basic_45
+    second: enemy_bullets_11_1
   - first:
       213: -4436314057614212403
-    second: stgpics_basic_46
+    second: enemy_bullets_13_0
   - first:
       213: 277702092077523503
-    second: stgpics_basic_47
+    second: enemy_bullets_13_1
   - first:
       213: -6530833499516887687
-    second: stgpics_basic_48
+    second: enemy_bullets_13_2
   - first:
       213: -4169832409303555602
-    second: stgpics_basic_49
+    second: enemy_bullets_13_3
   - first:
       213: -5838649458479182318
-    second: stgpics_basic_50
+    second: enemy_bullets_18_0
   - first:
       213: 2671949520846542060
-    second: stgpics_basic_51
+    second: enemy_bullets_18_1
   - first:
       213: -6897973804668833897
-    second: stgpics_basic_52
+    second: enemy_bullets_18_2
   - first:
       213: -6531513865889752515
-    second: stgpics_basic_53
+    second: enemy_bullets_18_3
   - first:
       213: 7086138505649420748
-    second: stgpics_basic_54
+    second: enemy_bullets_22_0
   - first:
       213: -6442566250577203550
-    second: stgpics_basic_55
+    second: enemy_bullets_22_1
   - first:
       213: 2364280149554533834
-    second: stgpics_basic_56
+    second: enemy_bullets_22_2
   - first:
       213: -8136098057378006191
-    second: stgpics_basic_57
+    second: enemy_bullets_25_0
   - first:
       213: 2344390046054876494
-    second: stgpics_basic_58
+    second: enemy_bullets_25_1
   - first:
       213: -4794105622854784465
-    second: stgpics_basic_59
+    second: enemy_bullets_25_2
   - first:
       213: -5770025081633013798
-    second: stgpics_basic_60
+    second: enemy_bullets_25_3
   - first:
       213: -5198715288801167628
-    second: stgpics_basic_61
+    second: enemy_bullets_28_0
   - first:
       213: -3872903839883773273
-    second: stgpics_basic_62
+    second: enemy_bullets_28_1
   - first:
       213: 1024176449328057085
-    second: stgpics_basic_63
+    second: enemy_bullets_28_2
   - first:
       213: -433519679552525216
-    second: stgpics_basic_64
+    second: enemy_bullets_28_3
   - first:
       213: 8877139236655301266
-    second: stgpics_basic_65
+    second: enemy_bullets_14_0
   - first:
       213: -8703533598250710669
-    second: stgpics_basic_66
+    second: enemy_bullets_14_1
   - first:
       213: 714289747657478472
-    second: stgpics_basic_67
+    second: enemy_bullets_15_0
   - first:
       213: 4285787760507947120
-    second: stgpics_basic_68
+    second: enemy_bullets_15_1
   - first:
       213: -3359400354383428074
-    second: stgpics_basic_69
+    second: enemy_bullets_15_2
   - first:
       213: 8638330198931495306
-    second: stgpics_basic_70
+    second: enemy_bullets_15_3
   - first:
       213: 2668110371207681837
-    second: stgpics_basic_71
+    second: enemy_bullets_26_0
   - first:
       213: -5721574452735028444
-    second: stgpics_basic_72
+    second: enemy_bullets_29_0
   - first:
       213: 7279272822270379261
-    second: stgpics_basic_73
+    second: enemy_bullets_19_0
   - first:
       213: -814095822392212614
-    second: stgpics_basic_74
+    second: enemy_bullets_19_1
   - first:
       213: 4912719329311386263
-    second: stgpics_basic_75
+    second: enemy_bullets_19_2
   - first:
       213: 1248645349481509574
-    second: stgpics_basic_76
+    second: enemy_bullets_19_3
   - first:
       213: -2253350863498204403
-    second: stgpics_basic_77
+    second: enemy_bullets_26_1
   - first:
       213: -6558796301637817804
-    second: stgpics_basic_78
+    second: enemy_bullets_26_2
   - first:
       213: -744070681829772487
-    second: stgpics_basic_79
+    second: enemy_bullets_26_3
   - first:
       213: 5516699487611796029
-    second: stgpics_basic_80
+    second: enemy_bullets_29_1
   - first:
       213: 6697133835084202350
-    second: stgpics_basic_81
+    second: enemy_bullets_29_2
   - first:
       213: 3310180607471932379
-    second: stgpics_basic_82
+    second: enemy_bullets_29_3
   - first:
       213: 476708415520112802
     second: player_left
   - first:
       213: 1113647373741249859
-    second: stgpics_basic_84
+    second: enemy_bullets_30_0
   - first:
       213: -855074510942380260
-    second: stgpics_basic_85
+    second: enemy_bullets_30_1
   - first:
       213: -3032696340268855211
-    second: stgpics_basic_86
+    second: enemy_bullets_30_2
   - first:
       213: 6769451219784030168
-    second: stgpics_basic_87
+    second: enemy_bullets_30_3
   - first:
       213: 3014087837760756502
     second: player_center
@@ -2155,7 +2155,7 @@ TextureImporter:
     second: stgpics_basic_164
   - first:
       213: -6626042932116128764
-    second: stgpics_basic_165
+    second: player_bullets_
   - first:
       213: -4298047118787917987
     second: stgpics_basic_166
@@ -2863,106 +2863,106 @@ TextureImporter:
     second: stgpics_basic_400
   - first:
       213: -4498263598306392123
-    second: stgpics_basic_401
+    second: enemy_bullets_0_0
   - first:
       213: 2026631423323324605
-    second: stgpics_basic_402
+    second: enemy_bullets_0_1
   - first:
       213: 1353603745307309059
-    second: stgpics_basic_403
+    second: enemy_bullets_0_2
   - first:
       213: 3212973695905838517
-    second: stgpics_basic_404
+    second: enemy_bullets_0_3
   - first:
       213: 228155767052934423
-    second: stgpics_basic_405
+    second: enemy_bullets_1_0
   - first:
       213: 7897336038030787250
-    second: stgpics_basic_406
+    second: enemy_bullets_1_1
   - first:
       213: -3188606869390383042
-    second: stgpics_basic_407
+    second: enemy_bullets_1_2
   - first:
       213: -6525118149525896290
-    second: stgpics_basic_408
+    second: enemy_bullets_1_3
   - first:
       213: -6194548260934435284
-    second: stgpics_basic_409
+    second: enemy_bullets_8_1
   - first:
       213: 4576834123341154264
-    second: stgpics_basic_410
+    second: enemy_bullets_8_3
   - first:
       213: -4359832749151530539
-    second: stgpics_basic_411
+    second: enemy_bullets_12_0
   - first:
       213: -1183944847577792693
-    second: stgpics_basic_412
+    second: enemy_bullets_12_1
   - first:
       213: -6772178042373444874
-    second: stgpics_basic_413
+    second: enemy_bullets_12_2
   - first:
       213: 1405968536074463539
-    second: stgpics_basic_414
+    second: enemy_bullets_12_3
   - first:
       213: 828566649127202639
-    second: stgpics_basic_415
+    second: enemy_bullets_2_0
   - first:
       213: 7954845640751213766
-    second: stgpics_basic_416
+    second: enemy_bullets_2_1
   - first:
       213: 612964441693927487
-    second: stgpics_basic_417
+    second: enemy_bullets_2_2
   - first:
       213: -1453500859452401612
-    second: stgpics_basic_418
+    second: enemy_bullets_2_3
   - first:
       213: 4156753021587729724
-    second: stgpics_basic_419
+    second: enemy_bullets_3_0
   - first:
       213: 3698705187142608230
-    second: stgpics_basic_420
+    second: enemy_bullets_3_1
   - first:
       213: -6014673061109050025
-    second: stgpics_basic_421
+    second: enemy_bullets_3_2
   - first:
       213: -2031139138135901270
-    second: stgpics_basic_422
+    second: enemy_bullets_3_3
   - first:
       213: -3910219119976612097
-    second: stgpics_basic_423
+    second: enemy_bullets_16_0
   - first:
       213: -721344128418201644
-    second: stgpics_basic_424
+    second: enemy_bullets_16_1
   - first:
       213: -184031508490158154
-    second: stgpics_basic_425
+    second: enemy_bullets_16_2
   - first:
       213: -4518917052797601929
-    second: stgpics_basic_426
+    second: enemy_bullets_16_3
   - first:
       213: 1740989682056477766
-    second: stgpics_basic_427
+    second: enemy_bullets_20_0
   - first:
       213: -2974970933021873561
-    second: stgpics_basic_428
+    second: enemy_bullets_20_1
   - first:
       213: 3312398672858562045
-    second: stgpics_basic_429
+    second: enemy_bullets_20_2
   - first:
       213: 3138331628888957312
-    second: stgpics_basic_430
+    second: enemy_bullets_20_3
   - first:
       213: 3432790889929065803
-    second: stgpics_basic_431
+    second: enemy_bullets_23_0
   - first:
       213: 6753060480985688375
-    second: stgpics_basic_432
+    second: enemy_bullets_23_1
   - first:
       213: -9193125226539574440
-    second: stgpics_basic_433
+    second: enemy_bullets_23_2
   - first:
       213: -4906696545510578204
-    second: stgpics_basic_434
+    second: enemy_bullets_23_3
   - first:
       213: -4791658845899067686
     second: homing_missile_0_r
@@ -3354,7 +3354,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_1
+      name: enemy_bullets_5_0
       rect:
         serializedVersion: 2
         x: 57
@@ -3375,7 +3375,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_2
+      name: enemy_bullets_5_1
       rect:
         serializedVersion: 2
         x: 67
@@ -3396,7 +3396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_3
+      name: enemy_bullets_5_2
       rect:
         serializedVersion: 2
         x: 78
@@ -3417,7 +3417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_4
+      name: enemy_bullets_5_3
       rect:
         serializedVersion: 2
         x: 88
@@ -3438,7 +3438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_5
+      name: enemy_bullets_6_0
       rect:
         serializedVersion: 2
         x: 150
@@ -3459,7 +3459,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_6
+      name: enemy_bullets_6_1
       rect:
         serializedVersion: 2
         x: 159
@@ -3480,7 +3480,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_7
+      name: enemy_bullets_6_2
       rect:
         serializedVersion: 2
         x: 168
@@ -3501,7 +3501,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_8
+      name: enemy_bullets_6_3
       rect:
         serializedVersion: 2
         x: 179
@@ -3522,7 +3522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_9
+      name: enemy_bullets_4_0
       rect:
         serializedVersion: 2
         x: 6
@@ -3543,7 +3543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_10
+      name: enemy_bullets_4_1
       rect:
         serializedVersion: 2
         x: 17
@@ -3564,7 +3564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_11
+      name: enemy_bullets_4_2
       rect:
         serializedVersion: 2
         x: 28
@@ -3585,7 +3585,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_12
+      name: enemy_bullets_4_3
       rect:
         serializedVersion: 2
         x: 39
@@ -3606,7 +3606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_13
+      name: enemy_bullets_8_0
       rect:
         serializedVersion: 2
         x: 56
@@ -3648,7 +3648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_15
+      name: enemy_bullets_8_2
       rect:
         serializedVersion: 2
         x: 77
@@ -3690,7 +3690,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_17
+      name: enemy_bullets_17_0
       rect:
         serializedVersion: 2
         x: 200
@@ -3711,7 +3711,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_18
+      name: enemy_bullets_17_1
       rect:
         serializedVersion: 2
         x: 215
@@ -3732,7 +3732,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_19
+      name: enemy_bullets_17_2
       rect:
         serializedVersion: 2
         x: 233
@@ -3753,7 +3753,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_20
+      name: enemy_bullets_17_3
       rect:
         serializedVersion: 2
         x: 254
@@ -3774,7 +3774,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_21
+      name: enemy_bullets_21_0
       rect:
         serializedVersion: 2
         x: 284
@@ -3795,7 +3795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_22
+      name: enemy_bullets_21_1
       rect:
         serializedVersion: 2
         x: 303
@@ -3816,7 +3816,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_23
+      name: enemy_bullets_21_2
       rect:
         serializedVersion: 2
         x: 322
@@ -3837,7 +3837,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_24
+      name: enemy_bullets_24_0
       rect:
         serializedVersion: 2
         x: 354
@@ -3858,7 +3858,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_25
+      name: enemy_bullets_24_1
       rect:
         serializedVersion: 2
         x: 372
@@ -3879,7 +3879,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_26
+      name: enemy_bullets_24_2
       rect:
         serializedVersion: 2
         x: 390
@@ -3900,7 +3900,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_27
+      name: enemy_bullets_24_3
       rect:
         serializedVersion: 2
         x: 408
@@ -3921,7 +3921,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_28
+      name: enemy_bullets_27_0
       rect:
         serializedVersion: 2
         x: 429
@@ -3942,7 +3942,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_29
+      name: enemy_bullets_27_1
       rect:
         serializedVersion: 2
         x: 448
@@ -3963,7 +3963,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_30
+      name: enemy_bullets_27_2
       rect:
         serializedVersion: 2
         x: 468
@@ -3984,7 +3984,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_31
+      name: enemy_bullets_27_3
       rect:
         serializedVersion: 2
         x: 485
@@ -4005,7 +4005,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_32
+      name: enemy_bullets_7_0
       rect:
         serializedVersion: 2
         x: 4
@@ -4026,7 +4026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_33
+      name: enemy_bullets_7_1
       rect:
         serializedVersion: 2
         x: 15
@@ -4047,7 +4047,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_34
+      name: enemy_bullets_7_2
       rect:
         serializedVersion: 2
         x: 26
@@ -4068,7 +4068,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_35
+      name: enemy_bullets_7_3
       rect:
         serializedVersion: 2
         x: 37
@@ -4089,7 +4089,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_36
+      name: enemy_bullets_9_0
       rect:
         serializedVersion: 2
         x: 103
@@ -4110,7 +4110,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_37
+      name: enemy_bullets_9_1
       rect:
         serializedVersion: 2
         x: 114
@@ -4131,7 +4131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_38
+      name: enemy_bullets_9_2
       rect:
         serializedVersion: 2
         x: 125
@@ -4152,7 +4152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_39
+      name: enemy_bullets_9_3
       rect:
         serializedVersion: 2
         x: 136
@@ -4173,7 +4173,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_40
+      name: enemy_bullets_10_0
       rect:
         serializedVersion: 2
         x: 148
@@ -4194,7 +4194,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_41
+      name: enemy_bullets_10_1
       rect:
         serializedVersion: 2
         x: 159
@@ -4215,7 +4215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_42
+      name: enemy_bullets_10_2
       rect:
         serializedVersion: 2
         x: 170
@@ -4236,7 +4236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_43
+      name: enemy_bullets_10_3
       rect:
         serializedVersion: 2
         x: 179
@@ -4257,7 +4257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_44
+      name: enemy_bullets_11_0
       rect:
         serializedVersion: 2
         x: 5
@@ -4278,7 +4278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_45
+      name: enemy_bullets_11_1
       rect:
         serializedVersion: 2
         x: 16
@@ -4299,7 +4299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_46
+      name: enemy_bullets_13_0
       rect:
         serializedVersion: 2
         x: 104
@@ -4320,7 +4320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_47
+      name: enemy_bullets_13_1
       rect:
         serializedVersion: 2
         x: 115
@@ -4341,7 +4341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_48
+      name: enemy_bullets_13_2
       rect:
         serializedVersion: 2
         x: 126
@@ -4362,7 +4362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_49
+      name: enemy_bullets_13_3
       rect:
         serializedVersion: 2
         x: 137
@@ -4383,7 +4383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_50
+      name: enemy_bullets_18_0
       rect:
         serializedVersion: 2
         x: 198
@@ -4404,7 +4404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_51
+      name: enemy_bullets_18_1
       rect:
         serializedVersion: 2
         x: 217
@@ -4425,7 +4425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_52
+      name: enemy_bullets_18_2
       rect:
         serializedVersion: 2
         x: 235
@@ -4446,7 +4446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_53
+      name: enemy_bullets_18_3
       rect:
         serializedVersion: 2
         x: 255
@@ -4467,7 +4467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_54
+      name: enemy_bullets_22_0
       rect:
         serializedVersion: 2
         x: 284
@@ -4488,7 +4488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_55
+      name: enemy_bullets_22_1
       rect:
         serializedVersion: 2
         x: 303
@@ -4509,7 +4509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_56
+      name: enemy_bullets_22_2
       rect:
         serializedVersion: 2
         x: 322
@@ -4530,7 +4530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_57
+      name: enemy_bullets_25_0
       rect:
         serializedVersion: 2
         x: 351
@@ -4551,7 +4551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_58
+      name: enemy_bullets_25_1
       rect:
         serializedVersion: 2
         x: 371
@@ -4572,7 +4572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_59
+      name: enemy_bullets_25_2
       rect:
         serializedVersion: 2
         x: 391
@@ -4593,7 +4593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_60
+      name: enemy_bullets_25_3
       rect:
         serializedVersion: 2
         x: 409
@@ -4614,7 +4614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_61
+      name: enemy_bullets_28_0
       rect:
         serializedVersion: 2
         x: 427
@@ -4635,7 +4635,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_62
+      name: enemy_bullets_28_1
       rect:
         serializedVersion: 2
         x: 447
@@ -4656,7 +4656,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_63
+      name: enemy_bullets_28_2
       rect:
         serializedVersion: 2
         x: 467
@@ -4677,7 +4677,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_64
+      name: enemy_bullets_28_3
       rect:
         serializedVersion: 2
         x: 485
@@ -4698,7 +4698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_65
+      name: enemy_bullets_14_0
       rect:
         serializedVersion: 2
         x: 6
@@ -4719,7 +4719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_66
+      name: enemy_bullets_14_1
       rect:
         serializedVersion: 2
         x: 15
@@ -4740,7 +4740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_67
+      name: enemy_bullets_15_0
       rect:
         serializedVersion: 2
         x: 57
@@ -4761,7 +4761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_68
+      name: enemy_bullets_15_1
       rect:
         serializedVersion: 2
         x: 67
@@ -4782,7 +4782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_69
+      name: enemy_bullets_15_2
       rect:
         serializedVersion: 2
         x: 77
@@ -4803,7 +4803,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_70
+      name: enemy_bullets_15_3
       rect:
         serializedVersion: 2
         x: 87
@@ -4824,7 +4824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_71
+      name: enemy_bullets_26_0
       rect:
         serializedVersion: 2
         x: 351
@@ -4845,7 +4845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_72
+      name: enemy_bullets_29_0
       rect:
         serializedVersion: 2
         x: 428
@@ -4866,7 +4866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_73
+      name: enemy_bullets_19_0
       rect:
         serializedVersion: 2
         x: 199
@@ -4887,7 +4887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_74
+      name: enemy_bullets_19_1
       rect:
         serializedVersion: 2
         x: 214
@@ -4908,7 +4908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_75
+      name: enemy_bullets_19_2
       rect:
         serializedVersion: 2
         x: 232
@@ -4929,7 +4929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_76
+      name: enemy_bullets_19_3
       rect:
         serializedVersion: 2
         x: 253
@@ -4950,7 +4950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_77
+      name: enemy_bullets_26_1
       rect:
         serializedVersion: 2
         x: 371
@@ -4971,7 +4971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_78
+      name: enemy_bullets_26_2
       rect:
         serializedVersion: 2
         x: 391
@@ -4992,7 +4992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_79
+      name: enemy_bullets_26_3
       rect:
         serializedVersion: 2
         x: 409
@@ -5013,7 +5013,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_80
+      name: enemy_bullets_29_1
       rect:
         serializedVersion: 2
         x: 447
@@ -5034,7 +5034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_81
+      name: enemy_bullets_29_2
       rect:
         serializedVersion: 2
         x: 466
@@ -5055,7 +5055,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_82
+      name: enemy_bullets_29_3
       rect:
         serializedVersion: 2
         x: 483
@@ -5097,7 +5097,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_84
+      name: enemy_bullets_30_0
       rect:
         serializedVersion: 2
         x: 428
@@ -5118,7 +5118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_85
+      name: enemy_bullets_30_1
       rect:
         serializedVersion: 2
         x: 447
@@ -5139,7 +5139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_86
+      name: enemy_bullets_30_2
       rect:
         serializedVersion: 2
         x: 466
@@ -5160,7 +5160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_87
+      name: enemy_bullets_30_3
       rect:
         serializedVersion: 2
         x: 483
@@ -6798,7 +6798,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_165
+      name: player_bullets_
       rect:
         serializedVersion: 2
         x: 57
@@ -11754,7 +11754,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_401
+      name: enemy_bullets_0_0
       rect:
         serializedVersion: 2
         x: 6
@@ -11775,7 +11775,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_402
+      name: enemy_bullets_0_1
       rect:
         serializedVersion: 2
         x: 17
@@ -11796,7 +11796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_403
+      name: enemy_bullets_0_2
       rect:
         serializedVersion: 2
         x: 28
@@ -11817,7 +11817,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_404
+      name: enemy_bullets_0_3
       rect:
         serializedVersion: 2
         x: 39
@@ -11838,7 +11838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_405
+      name: enemy_bullets_1_0
       rect:
         serializedVersion: 2
         x: 57
@@ -11859,7 +11859,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_406
+      name: enemy_bullets_1_1
       rect:
         serializedVersion: 2
         x: 67
@@ -11880,7 +11880,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_407
+      name: enemy_bullets_1_2
       rect:
         serializedVersion: 2
         x: 78
@@ -11901,7 +11901,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_408
+      name: enemy_bullets_1_3
       rect:
         serializedVersion: 2
         x: 88
@@ -11922,7 +11922,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_409
+      name: enemy_bullets_8_1
       rect:
         serializedVersion: 2
         x: 66
@@ -11943,7 +11943,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_410
+      name: enemy_bullets_8_3
       rect:
         serializedVersion: 2
         x: 88
@@ -11964,7 +11964,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_411
+      name: enemy_bullets_12_0
       rect:
         serializedVersion: 2
         x: 59
@@ -11985,7 +11985,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_412
+      name: enemy_bullets_12_1
       rect:
         serializedVersion: 2
         x: 69
@@ -12006,7 +12006,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_413
+      name: enemy_bullets_12_2
       rect:
         serializedVersion: 2
         x: 79
@@ -12027,7 +12027,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_414
+      name: enemy_bullets_12_3
       rect:
         serializedVersion: 2
         x: 90
@@ -12048,7 +12048,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_415
+      name: enemy_bullets_2_0
       rect:
         serializedVersion: 2
         x: 103
@@ -12069,7 +12069,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_416
+      name: enemy_bullets_2_1
       rect:
         serializedVersion: 2
         x: 114
@@ -12090,7 +12090,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_417
+      name: enemy_bullets_2_2
       rect:
         serializedVersion: 2
         x: 125
@@ -12111,7 +12111,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_418
+      name: enemy_bullets_2_3
       rect:
         serializedVersion: 2
         x: 136
@@ -12132,7 +12132,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_419
+      name: enemy_bullets_3_0
       rect:
         serializedVersion: 2
         x: 150
@@ -12153,7 +12153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_420
+      name: enemy_bullets_3_1
       rect:
         serializedVersion: 2
         x: 159
@@ -12174,7 +12174,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_421
+      name: enemy_bullets_3_2
       rect:
         serializedVersion: 2
         x: 168
@@ -12195,7 +12195,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_422
+      name: enemy_bullets_3_3
       rect:
         serializedVersion: 2
         x: 179
@@ -12216,7 +12216,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_423
+      name: enemy_bullets_16_0
       rect:
         serializedVersion: 2
         x: 200
@@ -12237,7 +12237,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_424
+      name: enemy_bullets_16_1
       rect:
         serializedVersion: 2
         x: 215
@@ -12258,7 +12258,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_425
+      name: enemy_bullets_16_2
       rect:
         serializedVersion: 2
         x: 233
@@ -12279,7 +12279,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_426
+      name: enemy_bullets_16_3
       rect:
         serializedVersion: 2
         x: 254
@@ -12300,7 +12300,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_427
+      name: enemy_bullets_20_0
       rect:
         serializedVersion: 2
         x: 285
@@ -12321,7 +12321,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_428
+      name: enemy_bullets_20_1
       rect:
         serializedVersion: 2
         x: 300
@@ -12342,7 +12342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_429
+      name: enemy_bullets_20_2
       rect:
         serializedVersion: 2
         x: 317
@@ -12363,7 +12363,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_430
+      name: enemy_bullets_20_3
       rect:
         serializedVersion: 2
         x: 337
@@ -12384,7 +12384,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_431
+      name: enemy_bullets_23_0
       rect:
         serializedVersion: 2
         x: 359
@@ -12405,7 +12405,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_432
+      name: enemy_bullets_23_1
       rect:
         serializedVersion: 2
         x: 379
@@ -12426,7 +12426,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_433
+      name: enemy_bullets_23_2
       rect:
         serializedVersion: 2
         x: 399
@@ -12447,7 +12447,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_434
+      name: enemy_bullets_23_3
       rect:
         serializedVersion: 2
         x: 417
@@ -14093,7 +14093,7 @@ TextureImporter:
         width: 4
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14114,7 +14114,7 @@ TextureImporter:
         width: 4
         height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14135,7 +14135,7 @@ TextureImporter:
         width: 4
         height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14156,7 +14156,7 @@ TextureImporter:
         width: 5
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14177,7 +14177,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14198,7 +14198,7 @@ TextureImporter:
         width: 6
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14219,7 +14219,7 @@ TextureImporter:
         width: 4
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14240,7 +14240,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14261,7 +14261,7 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14282,7 +14282,7 @@ TextureImporter:
         width: 6
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14303,7 +14303,7 @@ TextureImporter:
         width: 4
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14324,7 +14324,7 @@ TextureImporter:
         width: 6
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14345,7 +14345,7 @@ TextureImporter:
         width: 7
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14366,7 +14366,7 @@ TextureImporter:
         width: 5
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14387,7 +14387,7 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14408,7 +14408,7 @@ TextureImporter:
         width: 6
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14429,7 +14429,7 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14450,7 +14450,7 @@ TextureImporter:
         width: 4
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14471,7 +14471,7 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14492,7 +14492,7 @@ TextureImporter:
         width: 5
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14513,7 +14513,7 @@ TextureImporter:
         width: 4
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -14534,7 +14534,7 @@ TextureImporter:
         width: 6
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
