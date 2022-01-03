@@ -14,7 +14,7 @@ public class PlayerFire : MonoBehaviour
     void Start()
     {
         _initTime = _createTime;
-        _firePos = GetComponentInChildren<Transform>().Find("firePos");
+        //_firePos = GetComponentInChildren<Transform>().Find("firePos");
     }
 
     private void Update()
@@ -25,8 +25,7 @@ public class PlayerFire : MonoBehaviour
         {
             if (_initTime > _createTime)
             {
-                GameObject fire = _fireSource;
-                Instantiate(fire);
+                GameObject fire = Instantiate(_fireSource);
                 fire.transform.position = _firePos.position;
 
                 _initTime = 0;

@@ -628,7 +628,7 @@ TextureImporter:
     second: stgpics_basic_207
   - first:
       213: 21300416
-    second: stgpics_basic_208
+    second: player_bullets_0
   - first:
       213: 21300418
     second: stgpics_basic_209
@@ -2284,7 +2284,7 @@ TextureImporter:
     second: stgpics_basic_207
   - first:
       213: 5036261881322551482
-    second: stgpics_basic_208
+    second: player_bullets_0
   - first:
       213: 8804400506822936568
     second: stgpics_basic_209
@@ -7701,7 +7701,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_208
+      name: player_bullets_0
       rect:
         serializedVersion: 2
         x: 12

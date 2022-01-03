@@ -54,9 +54,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\DestroyZone.cs" />
+    <Compile Include="Assets\Script\Enemy1Create.cs" />
+    <Compile Include="Assets\Script\Enemy1Fire.cs" />
+    <Compile Include="Assets\Script\Enemy1FireMove.cs" />
     <Compile Include="Assets\Script\Enemy1Move.cs" />
-    <Compile Include="Assets\Script\EnemyZen1.cs" />
     <Compile Include="Assets\Script\FireMove.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\PlayerFire.cs" />
     <Compile Include="Assets\Script\PlayerMove.cs" />
   </ItemGroup>
