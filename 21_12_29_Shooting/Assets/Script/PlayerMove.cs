@@ -7,6 +7,8 @@ public class PlayerMove : MonoBehaviour
     float _speed = 5.0f;
     Transform _playertrans;
 
+    bool _blink = false;
+
     private void Start()
     {
         _playertrans = this.transform.GetChild(0);
@@ -29,10 +31,13 @@ public class PlayerMove : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("EnemyFire"))
         {
-            StartCoroutine(PlayerBlink());
-            
+            if(_blink == false)
+            {
+                _blink = true; 
+                StartCoroutine(PlayerBlink());
+            }
         }    
     }
 
@@ -45,5 +50,7 @@ public class PlayerMove : MonoBehaviour
         _playertrans.gameObject.SetActive(false);
         yield return new WaitForSeconds(0.3f);
         _playertrans.gameObject.SetActive(true);
+
+        _blink = false;
     }
 }

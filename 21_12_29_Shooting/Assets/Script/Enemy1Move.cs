@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Enemy1Move : MonoBehaviour
 {
+    public GameObject _explosion;
+    public GameObject _score;
+
     float _speed = 2.0f;
 
     Vector3 dir;
@@ -16,5 +19,19 @@ public class Enemy1Move : MonoBehaviour
     void Update()
     {
         this.transform.Translate(dir * _speed * Time.deltaTime);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("PlayerFire"))
+        {
+            GameObject explotion = Instantiate(_explosion);
+            explotion.transform.position = this.transform.position;
+
+            GameObject score = Instantiate(_score);
+            score.transform.position = this.transform.position;
+
+            Destroy(this.gameObject);
+        }
     }
 }

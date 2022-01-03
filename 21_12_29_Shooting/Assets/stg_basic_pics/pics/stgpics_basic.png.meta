@@ -46,13 +46,13 @@ TextureImporter:
     second: enemy_bullets_8_0
   - first:
       213: 21300028
-    second: stgpics_basic_14
+    second: explosion_11_0
   - first:
       213: 21300030
     second: enemy_bullets_8_2
   - first:
       213: 21300032
-    second: stgpics_basic_16
+    second: explosion_10_4
   - first:
       213: 21300034
     second: enemy_bullets_17_0
@@ -271,64 +271,64 @@ TextureImporter:
     second: player_center
   - first:
       213: 21300178
-    second: stgpics_basic_89
+    second: explosion_1_0
   - first:
       213: 21300180
-    second: stgpics_basic_90
+    second: explosion_1_1
   - first:
       213: 21300182
-    second: stgpics_basic_91
+    second: explosion_1_2
   - first:
       213: 21300184
-    second: stgpics_basic_92
+    second: explosion_1_3
   - first:
       213: 21300186
-    second: stgpics_basic_93
+    second: explosion_1_4
   - first:
       213: 21300188
-    second: stgpics_basic_94
+    second: explosion_5_0
   - first:
       213: 21300190
-    second: stgpics_basic_95
+    second: explosion_5_1
   - first:
       213: 21300192
-    second: stgpics_basic_96
+    second: explosion_5_2
   - first:
       213: 21300194
-    second: stgpics_basic_97
+    second: explosion_5_3
   - first:
       213: 21300196
     second: player_right
   - first:
       213: 21300198
-    second: stgpics_basic_99
+    second: explosion_10_2
   - first:
       213: 21300200
-    second: stgpics_basic_100
+    second: explosion_10_3
   - first:
       213: 21300202
-    second: stgpics_basic_101
+    second: explosion_2_2
   - first:
       213: 21300204
-    second: stgpics_basic_102
+    second: explosion_2_3
   - first:
       213: 21300206
-    second: stgpics_basic_103
+    second: explosion_6_0
   - first:
       213: 21300208
-    second: stgpics_basic_104
+    second: explosion_6_1
   - first:
       213: 21300210
-    second: stgpics_basic_105
+    second: explosion_6_2
   - first:
       213: 21300212
-    second: stgpics_basic_106
+    second: explosion_6_3
   - first:
       213: 21300214
-    second: stgpics_basic_107
+    second: explosion_0_0
   - first:
       213: 21300216
-    second: stgpics_basic_108
+    second: explosion_10_1
   - first:
       213: 21300218
     second: player_shadow_left
@@ -340,13 +340,13 @@ TextureImporter:
     second: player_shadow_right
   - first:
       213: 21300224
-    second: stgpics_basic_112
+    second: explosion_2_0
   - first:
       213: 21300226
-    second: stgpics_basic_113
+    second: explosion_2_1
   - first:
       213: 21300228
-    second: stgpics_basic_114
+    second: explosion_10_0
   - first:
       213: 21300230
     second: player_shadow_small_left
@@ -355,46 +355,46 @@ TextureImporter:
     second: player_shadow_small_center
   - first:
       213: 21300234
-    second: stgpics_basic_117
+    second: explosion_3_0
   - first:
       213: 21300236
-    second: stgpics_basic_118
+    second: explosion_3_1
   - first:
       213: 21300238
-    second: stgpics_basic_119
+    second: explosion_3_2
   - first:
       213: 21300240
-    second: stgpics_basic_120
+    second: explosion_3_3
   - first:
       213: 21300242
-    second: stgpics_basic_121
+    second: explosion_7_3
   - first:
       213: 21300244
-    second: stgpics_basic_122
+    second: explosion_3_4
   - first:
       213: 21300246
-    second: stgpics_basic_123
+    second: explosion_4_4
   - first:
       213: 21300248
-    second: stgpics_basic_124
+    second: explosion_7_0
   - first:
       213: 21300250
-    second: stgpics_basic_125
+    second: explosion_7_1
   - first:
       213: 21300252
-    second: stgpics_basic_126
+    second: explosion_7_2
   - first:
       213: 21300254
-    second: stgpics_basic_127
+    second: explosion_1_5
   - first:
       213: 21300256
-    second: stgpics_basic_128
+    second: explosion_0_1
   - first:
       213: 21300258
-    second: stgpics_basic_129
+    second: explosion_11_2
   - first:
       213: 21300260
-    second: stgpics_basic_130
+    second: explosion_11_3
   - first:
       213: 21300262
     second: player_shadow_small_right
@@ -403,31 +403,31 @@ TextureImporter:
     second: stgpics_basic_132
   - first:
       213: 21300266
-    second: stgpics_basic_133
+    second: explosion_11_1
   - first:
       213: 21300268
-    second: stgpics_basic_134
+    second: explosion_4_0
   - first:
       213: 21300270
-    second: stgpics_basic_135
+    second: explosion_4_1
   - first:
       213: 21300272
-    second: stgpics_basic_136
+    second: explosion_4_2
   - first:
       213: 21300274
-    second: stgpics_basic_137
+    second: explosion_4_3
   - first:
       213: 21300276
-    second: stgpics_basic_138
+    second: explosion_8_0
   - first:
       213: 21300278
-    second: stgpics_basic_139
+    second: explosion_8_1
   - first:
       213: 21300280
-    second: stgpics_basic_140
+    second: explosion_8_2
   - first:
       213: 21300282
-    second: stgpics_basic_141
+    second: explosion_8_3
   - first:
       213: 21300284
     second: stgpics_basic_142
@@ -505,16 +505,16 @@ TextureImporter:
     second: stgpics_basic_166
   - first:
       213: 21300334
-    second: stgpics_basic_167
+    second: explosion_12_0
   - first:
       213: 21300336
-    second: stgpics_basic_168
+    second: explosion_12_1
   - first:
       213: 21300338
-    second: stgpics_basic_169
+    second: explosion_12_2
   - first:
       213: 21300340
-    second: stgpics_basic_170
+    second: explosion_12_3
   - first:
       213: 21300342
     second: stgpics_basic_171
@@ -523,7 +523,7 @@ TextureImporter:
     second: stgpics_basic_172
   - first:
       213: 21300346
-    second: stgpics_basic_173
+    second: explosion_12_4
   - first:
       213: 21300348
     second: stgpics_basic_174
@@ -1456,34 +1456,34 @@ TextureImporter:
     second: stgpics_basic_483
   - first:
       213: 21300968
-    second: stgpics_basic_484
+    second: score100
   - first:
       213: 21300970
-    second: stgpics_basic_485
+    second: score100_
   - first:
       213: 21300972
-    second: stgpics_basic_486
+    second: score200
   - first:
       213: 21300974
-    second: stgpics_basic_487
+    second: score200_
   - first:
       213: 21300976
-    second: stgpics_basic_488
+    second: score500
   - first:
       213: 21300978
-    second: stgpics_basic_489
+    second: score2000
   - first:
       213: 21300980
-    second: stgpics_basic_490
+    second: score2000_
   - first:
       213: 21300982
-    second: stgpics_basic_491
+    second: score500_
   - first:
       213: 21300984
-    second: stgpics_basic_492
+    second: score1000
   - first:
       213: 21300986
-    second: stgpics_basic_493
+    second: score1000_
   - first:
       213: 21300988
     second: stgpics_basic_494
@@ -1504,19 +1504,19 @@ TextureImporter:
     second: stgpics_basic_499
   - first:
       213: 21301000
-    second: stgpics_basic_500
+    second: explosion_9_0
   - first:
       213: 21301002
-    second: stgpics_basic_501
+    second: explosion_9_1
   - first:
       213: 21301004
-    second: stgpics_basic_502
+    second: explosion_9_2
   - first:
       213: 21301006
-    second: stgpics_basic_503
+    second: explosion_9_3
   - first:
       213: 21301008
-    second: stgpics_basic_504
+    second: explosion_9_4
   - first:
       213: 21301010
     second: stgpics_basic_505
@@ -1534,10 +1534,10 @@ TextureImporter:
     second: stgpics_basic_509
   - first:
       213: 21301020
-    second: stgpics_basic_510
+    second: explosion_0_2
   - first:
       213: 21301022
-    second: stgpics_basic_511
+    second: explosion_0_3
   - first:
       213: 21301024
     second: stgpics_basic_512
@@ -1702,13 +1702,13 @@ TextureImporter:
     second: enemy_bullets_8_0
   - first:
       213: -3635398118820790092
-    second: stgpics_basic_14
+    second: explosion_11_0
   - first:
       213: -2443086413868691185
     second: enemy_bullets_8_2
   - first:
       213: -7915873593267158098
-    second: stgpics_basic_16
+    second: explosion_10_4
   - first:
       213: -4656749218469196518
     second: enemy_bullets_17_0
@@ -1927,64 +1927,64 @@ TextureImporter:
     second: player_center
   - first:
       213: -2328464599693505480
-    second: stgpics_basic_89
+    second: explosion_1_0
   - first:
       213: -1326192300105715644
-    second: stgpics_basic_90
+    second: explosion_1_1
   - first:
       213: 7121017767478851155
-    second: stgpics_basic_91
+    second: explosion_1_2
   - first:
       213: 3209408621371527771
-    second: stgpics_basic_92
+    second: explosion_1_3
   - first:
       213: 3265986975367882571
-    second: stgpics_basic_93
+    second: explosion_1_4
   - first:
       213: 6422775039121086834
-    second: stgpics_basic_94
+    second: explosion_5_0
   - first:
       213: -5801142653434414491
-    second: stgpics_basic_95
+    second: explosion_5_1
   - first:
       213: -7221263571716338693
-    second: stgpics_basic_96
+    second: explosion_5_2
   - first:
       213: 4056661739181769590
-    second: stgpics_basic_97
+    second: explosion_5_3
   - first:
       213: -6009664420814940289
     second: player_right
   - first:
       213: -2836114177017076976
-    second: stgpics_basic_99
+    second: explosion_10_2
   - first:
       213: 6745069223636025927
-    second: stgpics_basic_100
+    second: explosion_10_3
   - first:
       213: 1137859166333909676
-    second: stgpics_basic_101
+    second: explosion_2_2
   - first:
       213: 2737414589933499857
-    second: stgpics_basic_102
+    second: explosion_2_3
   - first:
       213: -1094968574465899743
-    second: stgpics_basic_103
+    second: explosion_6_0
   - first:
       213: -2839949125695115685
-    second: stgpics_basic_104
+    second: explosion_6_1
   - first:
       213: -5252938525822513540
-    second: stgpics_basic_105
+    second: explosion_6_2
   - first:
       213: -7020962228312308125
-    second: stgpics_basic_106
+    second: explosion_6_3
   - first:
       213: -4721848224120471914
-    second: stgpics_basic_107
+    second: explosion_0_0
   - first:
       213: -8051404707018986515
-    second: stgpics_basic_108
+    second: explosion_10_1
   - first:
       213: 1401831827185028291
     second: player_shadow_left
@@ -1996,13 +1996,13 @@ TextureImporter:
     second: player_shadow_right
   - first:
       213: -3999833181438621660
-    second: stgpics_basic_112
+    second: explosion_2_0
   - first:
       213: -3704575603733045013
-    second: stgpics_basic_113
+    second: explosion_2_1
   - first:
       213: -2623843393935515013
-    second: stgpics_basic_114
+    second: explosion_10_0
   - first:
       213: 1436514147277290195
     second: player_shadow_small_left
@@ -2011,46 +2011,46 @@ TextureImporter:
     second: player_shadow_small_center
   - first:
       213: 5269552772165824173
-    second: stgpics_basic_117
+    second: explosion_3_0
   - first:
       213: 1635860246122750309
-    second: stgpics_basic_118
+    second: explosion_3_1
   - first:
       213: -6250116424074204685
-    second: stgpics_basic_119
+    second: explosion_3_2
   - first:
       213: -3080158091886541456
-    second: stgpics_basic_120
+    second: explosion_3_3
   - first:
       213: -4533855419459449696
-    second: stgpics_basic_121
+    second: explosion_7_3
   - first:
       213: -7405939325142669503
-    second: stgpics_basic_122
+    second: explosion_3_4
   - first:
       213: 1540040791934090984
-    second: stgpics_basic_123
+    second: explosion_4_4
   - first:
       213: 7349463737798602287
-    second: stgpics_basic_124
+    second: explosion_7_0
   - first:
       213: -7964390823950532193
-    second: stgpics_basic_125
+    second: explosion_7_1
   - first:
       213: -6555204043903512104
-    second: stgpics_basic_126
+    second: explosion_7_2
   - first:
       213: -8444359520849382625
-    second: stgpics_basic_127
+    second: explosion_1_5
   - first:
       213: 2928843243482946335
-    second: stgpics_basic_128
+    second: explosion_0_1
   - first:
       213: 5192287682829989482
-    second: stgpics_basic_129
+    second: explosion_11_2
   - first:
       213: 7722202196454791405
-    second: stgpics_basic_130
+    second: explosion_11_3
   - first:
       213: 4549278532899211313
     second: player_shadow_small_right
@@ -2059,31 +2059,31 @@ TextureImporter:
     second: stgpics_basic_132
   - first:
       213: 3256500299250417123
-    second: stgpics_basic_133
+    second: explosion_11_1
   - first:
       213: -1008836164279762403
-    second: stgpics_basic_134
+    second: explosion_4_0
   - first:
       213: -816438342349933169
-    second: stgpics_basic_135
+    second: explosion_4_1
   - first:
       213: 1681626684620677759
-    second: stgpics_basic_136
+    second: explosion_4_2
   - first:
       213: -6859348133974238952
-    second: stgpics_basic_137
+    second: explosion_4_3
   - first:
       213: 4092999092945696914
-    second: stgpics_basic_138
+    second: explosion_8_0
   - first:
       213: 3812009656522219333
-    second: stgpics_basic_139
+    second: explosion_8_1
   - first:
       213: 4089780532508216518
-    second: stgpics_basic_140
+    second: explosion_8_2
   - first:
       213: 9080650121280681393
-    second: stgpics_basic_141
+    second: explosion_8_3
   - first:
       213: 6120446441639140372
     second: stgpics_basic_142
@@ -2161,16 +2161,16 @@ TextureImporter:
     second: stgpics_basic_166
   - first:
       213: -7062712660756099204
-    second: stgpics_basic_167
+    second: explosion_12_0
   - first:
       213: -6935807952291616401
-    second: stgpics_basic_168
+    second: explosion_12_1
   - first:
       213: 7629027091189279209
-    second: stgpics_basic_169
+    second: explosion_12_2
   - first:
       213: -5419473288217119320
-    second: stgpics_basic_170
+    second: explosion_12_3
   - first:
       213: -6053892794865286869
     second: stgpics_basic_171
@@ -2179,7 +2179,7 @@ TextureImporter:
     second: stgpics_basic_172
   - first:
       213: -4722411281379109801
-    second: stgpics_basic_173
+    second: explosion_12_4
   - first:
       213: 2551388685284475833
     second: stgpics_basic_174
@@ -3112,34 +3112,34 @@ TextureImporter:
     second: stgpics_basic_483
   - first:
       213: 4918363081801491666
-    second: stgpics_basic_484
+    second: score100
   - first:
       213: 1700345721860997395
-    second: stgpics_basic_485
+    second: score100_
   - first:
       213: -7671039199090900197
-    second: stgpics_basic_486
+    second: score200
   - first:
       213: -1294052050285767946
-    second: stgpics_basic_487
+    second: score200_
   - first:
       213: -9076689017848402670
-    second: stgpics_basic_488
+    second: score500
   - first:
       213: -2534760981133418623
-    second: stgpics_basic_489
+    second: score2000
   - first:
       213: 5181462238305693786
-    second: stgpics_basic_490
+    second: score2000_
   - first:
       213: 6683327068915141734
-    second: stgpics_basic_491
+    second: score500_
   - first:
       213: 2060819231064526194
-    second: stgpics_basic_492
+    second: score1000
   - first:
       213: 8548615036768496969
-    second: stgpics_basic_493
+    second: score1000_
   - first:
       213: 3867026090473527387
     second: stgpics_basic_494
@@ -3160,19 +3160,19 @@ TextureImporter:
     second: stgpics_basic_499
   - first:
       213: -1207796711088012567
-    second: stgpics_basic_500
+    second: explosion_9_0
   - first:
       213: 540264995093769315
-    second: stgpics_basic_501
+    second: explosion_9_1
   - first:
       213: 4455106191656698654
-    second: stgpics_basic_502
+    second: explosion_9_2
   - first:
       213: -6311496418795083298
-    second: stgpics_basic_503
+    second: explosion_9_3
   - first:
       213: -5547351769496326128
-    second: stgpics_basic_504
+    second: explosion_9_4
   - first:
       213: 2022405157105578883
     second: stgpics_basic_505
@@ -3190,10 +3190,10 @@ TextureImporter:
     second: stgpics_basic_509
   - first:
       213: 3269071762965007217
-    second: stgpics_basic_510
+    second: explosion_0_2
   - first:
       213: 365845252880029829
-    second: stgpics_basic_511
+    second: explosion_0_3
   - first:
       213: 4310449963671849092
     second: stgpics_basic_512
@@ -3336,8 +3336,8 @@ TextureImporter:
       name: stgpics_basic_0
       rect:
         serializedVersion: 2
-        x: 84
-        y: 444
+        x: 91
+        y: 509
         width: 14
         height: 3
       alignment: 0
@@ -3627,7 +3627,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_14
+      name: explosion_11_0
       rect:
         serializedVersion: 2
         x: 269
@@ -3669,7 +3669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_16
+      name: explosion_10_4
       rect:
         serializedVersion: 2
         x: 405
@@ -5202,7 +5202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_89
+      name: explosion_1_0
       rect:
         serializedVersion: 2
         x: 11
@@ -5223,7 +5223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_90
+      name: explosion_1_1
       rect:
         serializedVersion: 2
         x: 27
@@ -5244,7 +5244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_91
+      name: explosion_1_2
       rect:
         serializedVersion: 2
         x: 46
@@ -5265,7 +5265,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_92
+      name: explosion_1_3
       rect:
         serializedVersion: 2
         x: 64
@@ -5286,7 +5286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_93
+      name: explosion_1_4
       rect:
         serializedVersion: 2
         x: 84
@@ -5307,7 +5307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_94
+      name: explosion_5_0
       rect:
         serializedVersion: 2
         x: 162
@@ -5328,7 +5328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_95
+      name: explosion_5_1
       rect:
         serializedVersion: 2
         x: 177
@@ -5349,7 +5349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_96
+      name: explosion_5_2
       rect:
         serializedVersion: 2
         x: 196
@@ -5370,7 +5370,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_97
+      name: explosion_5_3
       rect:
         serializedVersion: 2
         x: 217
@@ -5412,7 +5412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_99
+      name: explosion_10_2
       rect:
         serializedVersion: 2
         x: 330
@@ -5433,7 +5433,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_100
+      name: explosion_10_3
       rect:
         serializedVersion: 2
         x: 366
@@ -5454,7 +5454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_101
+      name: explosion_2_2
       rect:
         serializedVersion: 2
         x: 46
@@ -5475,7 +5475,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_102
+      name: explosion_2_3
       rect:
         serializedVersion: 2
         x: 63
@@ -5496,7 +5496,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_103
+      name: explosion_6_0
       rect:
         serializedVersion: 2
         x: 149
@@ -5517,7 +5517,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_104
+      name: explosion_6_1
       rect:
         serializedVersion: 2
         x: 167
@@ -5538,7 +5538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_105
+      name: explosion_6_2
       rect:
         serializedVersion: 2
         x: 184
@@ -5559,7 +5559,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_106
+      name: explosion_6_3
       rect:
         serializedVersion: 2
         x: 203
@@ -5580,7 +5580,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_107
+      name: explosion_0_0
       rect:
         serializedVersion: 2
         x: 59
@@ -5601,7 +5601,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_108
+      name: explosion_10_1
       rect:
         serializedVersion: 2
         x: 300
@@ -5685,7 +5685,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_112
+      name: explosion_2_0
       rect:
         serializedVersion: 2
         x: 11
@@ -5706,7 +5706,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_113
+      name: explosion_2_1
       rect:
         serializedVersion: 2
         x: 28
@@ -5727,7 +5727,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_114
+      name: explosion_10_0
       rect:
         serializedVersion: 2
         x: 271
@@ -5790,7 +5790,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_117
+      name: explosion_3_0
       rect:
         serializedVersion: 2
         x: 11
@@ -5811,7 +5811,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_118
+      name: explosion_3_1
       rect:
         serializedVersion: 2
         x: 29
@@ -5832,7 +5832,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_119
+      name: explosion_3_2
       rect:
         serializedVersion: 2
         x: 47
@@ -5853,7 +5853,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_120
+      name: explosion_3_3
       rect:
         serializedVersion: 2
         x: 66
@@ -5874,7 +5874,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_121
+      name: explosion_7_3
       rect:
         serializedVersion: 2
         x: 202
@@ -5895,7 +5895,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_122
+      name: explosion_3_4
       rect:
         serializedVersion: 2
         x: 86
@@ -5916,7 +5916,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_123
+      name: explosion_4_4
       rect:
         serializedVersion: 2
         x: 84
@@ -5937,7 +5937,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_124
+      name: explosion_7_0
       rect:
         serializedVersion: 2
         x: 149
@@ -5958,7 +5958,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_125
+      name: explosion_7_1
       rect:
         serializedVersion: 2
         x: 165
@@ -5979,7 +5979,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_126
+      name: explosion_7_2
       rect:
         serializedVersion: 2
         x: 182
@@ -6000,7 +6000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_127
+      name: explosion_1_5
       rect:
         serializedVersion: 2
         x: 105
@@ -6021,7 +6021,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_128
+      name: explosion_0_1
       rect:
         serializedVersion: 2
         x: 67
@@ -6042,7 +6042,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_129
+      name: explosion_11_2
       rect:
         serializedVersion: 2
         x: 331
@@ -6063,7 +6063,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_130
+      name: explosion_11_3
       rect:
         serializedVersion: 2
         x: 364
@@ -6126,7 +6126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_133
+      name: explosion_11_1
       rect:
         serializedVersion: 2
         x: 298
@@ -6147,7 +6147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_134
+      name: explosion_4_0
       rect:
         serializedVersion: 2
         x: 11
@@ -6168,7 +6168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_135
+      name: explosion_4_1
       rect:
         serializedVersion: 2
         x: 29
@@ -6189,7 +6189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_136
+      name: explosion_4_2
       rect:
         serializedVersion: 2
         x: 47
@@ -6210,7 +6210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_137
+      name: explosion_4_3
       rect:
         serializedVersion: 2
         x: 65
@@ -6231,7 +6231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_138
+      name: explosion_8_0
       rect:
         serializedVersion: 2
         x: 149
@@ -6252,7 +6252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_139
+      name: explosion_8_1
       rect:
         serializedVersion: 2
         x: 165
@@ -6273,7 +6273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_140
+      name: explosion_8_2
       rect:
         serializedVersion: 2
         x: 183
@@ -6294,7 +6294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_141
+      name: explosion_8_3
       rect:
         serializedVersion: 2
         x: 201
@@ -6840,7 +6840,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_167
+      name: explosion_12_0
       rect:
         serializedVersion: 2
         x: 254
@@ -6861,7 +6861,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_168
+      name: explosion_12_1
       rect:
         serializedVersion: 2
         x: 296
@@ -6882,7 +6882,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_169
+      name: explosion_12_2
       rect:
         serializedVersion: 2
         x: 338
@@ -6903,7 +6903,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_170
+      name: explosion_12_3
       rect:
         serializedVersion: 2
         x: 391
@@ -6966,7 +6966,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_173
+      name: explosion_12_4
       rect:
         serializedVersion: 2
         x: 442
@@ -13497,7 +13497,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_484
+      name: score100
       rect:
         serializedVersion: 2
         x: 341
@@ -13518,7 +13518,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_485
+      name: score100_
       rect:
         serializedVersion: 2
         x: 359
@@ -13539,7 +13539,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_486
+      name: score200
       rect:
         serializedVersion: 2
         x: 379
@@ -13560,7 +13560,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_487
+      name: score200_
       rect:
         serializedVersion: 2
         x: 397
@@ -13581,7 +13581,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_488
+      name: score500
       rect:
         serializedVersion: 2
         x: 418
@@ -13602,7 +13602,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_489
+      name: score2000
       rect:
         serializedVersion: 2
         x: 417
@@ -13623,7 +13623,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_490
+      name: score2000_
       rect:
         serializedVersion: 2
         x: 435
@@ -13644,7 +13644,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_491
+      name: score500_
       rect:
         serializedVersion: 2
         x: 437
@@ -13665,7 +13665,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_492
+      name: score1000
       rect:
         serializedVersion: 2
         x: 456
@@ -13686,7 +13686,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_493
+      name: score1000_
       rect:
         serializedVersion: 2
         x: 474
@@ -13833,7 +13833,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_500
+      name: explosion_9_0
       rect:
         serializedVersion: 2
         x: 265
@@ -13854,7 +13854,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_501
+      name: explosion_9_1
       rect:
         serializedVersion: 2
         x: 279
@@ -13875,7 +13875,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_502
+      name: explosion_9_2
       rect:
         serializedVersion: 2
         x: 297
@@ -13896,7 +13896,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_503
+      name: explosion_9_3
       rect:
         serializedVersion: 2
         x: 317
@@ -13917,7 +13917,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_504
+      name: explosion_9_4
       rect:
         serializedVersion: 2
         x: 335
@@ -14043,7 +14043,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_510
+      name: explosion_0_2
       rect:
         serializedVersion: 2
         x: 77
@@ -14064,7 +14064,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_511
+      name: explosion_0_3
       rect:
         serializedVersion: 2
         x: 88

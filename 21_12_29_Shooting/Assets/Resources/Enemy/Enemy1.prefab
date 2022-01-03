@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4944743662663488633}
   - component: {fileID: 4476405976720942646}
   - component: {fileID: 7237317158601279107}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Enemy1
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -29,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8458236760331965432}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.5, y: 6, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 509664812628991032}
@@ -98,6 +98,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb597e4759555ef42bbaa7c037ea268e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _explosion: {fileID: 1414298200645171562, guid: 32ed909a41e564145858c4d1a9f37911,
+    type: 3}
+  _score: {fileID: 5350078537627290322, guid: 92040d143791d914e842efda7450b9a8, type: 3}
 --- !u!114 &4944743662663488633
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -169,7 +172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 509664812628991032}
   - component: {fileID: 4907544622728279508}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}

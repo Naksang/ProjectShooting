@@ -17,12 +17,4 @@ public class Enemy1FireMove : MonoBehaviour
     {
         this.transform.Translate(dir * _speed * Time.deltaTime);
     }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            Destroy(collision.gameObject);
-        }
-    }
 }
