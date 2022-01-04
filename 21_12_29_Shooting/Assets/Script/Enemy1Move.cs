@@ -25,12 +25,16 @@ public class Enemy1Move : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("PlayerFire"))
         {
+            GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
+            gm.Score += 100;
+
             GameObject explotion = Instantiate(_explosion);
             explotion.transform.position = this.transform.position;
 
             GameObject score = Instantiate(_score);
             score.transform.position = this.transform.position;
 
+            Destroy(collision.gameObject);
             Destroy(this.gameObject);
         }
     }
