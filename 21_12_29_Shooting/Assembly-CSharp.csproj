@@ -61,11 +61,17 @@
     <Compile Include="Assets\Script\Enemy1Fire.cs" />
     <Compile Include="Assets\Script\Enemy1FireMove.cs" />
     <Compile Include="Assets\Script\Enemy1Move.cs" />
+    <Compile Include="Assets\Script\Enemy2Create.cs" />
+    <Compile Include="Assets\Script\Enemy2Move.cs" />
     <Compile Include="Assets\Script\EnemyCreateManager.cs" />
     <Compile Include="Assets\Script\FireMove.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\PlayerFire.cs" />
     <Compile Include="Assets\Script\PlayerMove.cs" />
+    <Compile Include="Assets\Script\_BlinkCircleFire.cs" />
+    <Compile Include="Assets\Script\_BulletMove.cs" />
+    <Compile Include="Assets\Script\_CicleFire.cs" />
+    <Compile Include="Assets\Script\_RotFire.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\stg_basic_pics\document_and_picturelist\readme.txt" />

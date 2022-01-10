@@ -11,11 +11,6 @@ public class Enemy1Create : MonoBehaviour
 
     public GameObject _enemySource;
 
-    void Start()
-    {
-        
-    }
-
     void Update()
     {
         _initTime += Time.deltaTime;

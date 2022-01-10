@@ -4,14 +4,17 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-    float _speed = 5.0f;
+    float _speed = 10.0f;
     Transform _playertrans;
 
     bool _blink = false;
 
+    Animator _animator = null;
+
     private void Start()
     {
         _playertrans = this.transform.GetChild(0);
+        _animator = this.GetComponentInChildren<Animator>();
     }
 
     void Update()
@@ -19,6 +22,11 @@ public class PlayerMove : MonoBehaviour
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
         Vector3 dir = Vector3.right * h + Vector3.up * v;
+
+        if(Input.GetButtonDown("Horizontal") || Input.GetButtonDown("Horizontal"))
+        {
+            _animator.SetInteger("Input", (int)h);
+        }
 
         this.transform.Translate(dir * _speed * Time.deltaTime);
 
