@@ -3,21 +3,34 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class _CicleFire : MonoBehaviour
-{
+{ 
     public GameObject _bullet;
 
-    void Update()
+    bool make = true;
+
+    private void Update()
     {
-        for(int i = 0; i < 360; i += 45)
+        if(make)
         {
+            for (int i = 0; i < 360; i += 13)
+            {
+                GameObject bullet = Instantiate(_bullet);
 
-            GameObject bullet = Instantiate(_bullet);
+                Destroy(bullet, 2f);
 
-            Destroy(bullet, 2f);
+                bullet.transform.position = this.transform.position;
 
-            bullet.transform.position = this.transform.position;
+                bullet.transform.rotation = Quaternion.Euler(0, 0, i);
+            }
 
-            bullet.transform.rotation = Quaternion.Euler(0, 0, i);
+            make = false;
+            StartCoroutine(MakeCircle());
         }
+    }
+
+    IEnumerator MakeCircle()
+    {
+        yield return new WaitForSeconds(0.2f);
+        make = true;
     }
 }

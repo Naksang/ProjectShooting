@@ -2,17 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class _BlinkCircleFire : MonoBehaviour
+public class _SpinFire : MonoBehaviour
 {
-    public float _speed;
-
     public GameObject _bullet;
+
+    int pos = 1;
 
     void Update()
     {
-        for (int i = 0; i < 360; i += 120)
+        for (int i = 0; i < 360; i += 45)
         {
-            transform.Rotate(Vector3.forward * _speed * 100 * Time.deltaTime);
 
             GameObject bullet = Instantiate(_bullet);
 
@@ -20,7 +19,10 @@ public class _BlinkCircleFire : MonoBehaviour
 
             bullet.transform.position = this.transform.position;
 
-            bullet.transform.rotation = this.transform.rotation;
+            bullet.transform.rotation = Quaternion.Euler(0, 0, i + pos);
+
+            pos++;
+
         }
     }
 }
