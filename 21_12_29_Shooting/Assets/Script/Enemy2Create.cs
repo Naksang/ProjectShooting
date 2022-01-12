@@ -19,6 +19,7 @@ public class Enemy2Create : MonoBehaviour
             int rand = Random.Range(0, 2);
 
             GameObject enemy = Instantiate(_enemySource);
+            Destroy(enemy, 10.0f);
             enemy.transform.position = _createPos[rand].position;
 
             _initTime = 0;

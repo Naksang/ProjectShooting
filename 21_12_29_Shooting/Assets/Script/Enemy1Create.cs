@@ -21,15 +21,18 @@ public class Enemy1Create : MonoBehaviour
             if(rand == 4)
             {
                 GameObject enemy = Instantiate(_enemySource);
+                Destroy(enemy, 10.0f);
                 enemy.transform.position = _createPos[rand].position;
             }
             else
             {
                 int rand2 = 8 - rand;
                 GameObject enemy0 = Instantiate(_enemySource);
+                Destroy(enemy0, 10.0f);
                 enemy0.transform.position = _createPos[rand].position;
 
                 GameObject enemy1 = Instantiate(_enemySource);
+                Destroy(enemy1, 10.0f);
                 enemy1.transform.position = _createPos[rand2].position;
             }
             _initTime = 0;

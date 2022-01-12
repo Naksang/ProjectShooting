@@ -4,20 +4,25 @@ using UnityEngine;
 
 public class Boss1Create : MonoBehaviour
 {
-    float _createTime = 8.0f;
-    float _initTime;
-
-    public Transform[] _createPos;
+    public Transform _createPos;
 
     public GameObject _enemySource;
 
-    void Start()
+    GameObject boss = null;
+
+    private void Start()
     {
-        
+        boss = Instantiate(_enemySource);
+        boss.transform.position = this.transform.position;
     }
 
     void Update()
     {
-        
+        if (boss.transform.position.y > 4.0f) 
+        {
+            boss.transform.Translate(Vector3.down * 2.0f * Time.deltaTime);
+
+        }
+
     }
 }

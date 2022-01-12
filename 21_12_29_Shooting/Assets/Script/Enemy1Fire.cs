@@ -30,6 +30,7 @@ public class Enemy1Fire : MonoBehaviour
             if (_initTime > _createTime)
             {
                 GameObject fire = Instantiate(_enemyfire);
+                Destroy(fire, 5.0f);
                 fire.transform.position = this.transform.position;
 
                 _initTime = 0;

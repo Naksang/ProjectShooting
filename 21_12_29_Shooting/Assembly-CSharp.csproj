@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\BGoffset.cs" />
     <Compile Include="Assets\Script\Boss1Create.cs" />
+    <Compile Include="Assets\Script\ChangeCoin.cs" />
     <Compile Include="Assets\Script\DestroyGameObj.cs" />
     <Compile Include="Assets\Script\DestroyZone.cs" />
     <Compile Include="Assets\Script\Enemy1Create.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Assets\Script\_BulletWaitMove.cs" />
     <Compile Include="Assets\Script\_CicleFire.cs" />
     <Compile Include="Assets\Script\_CrossFire.cs" />
+    <Compile Include="Assets\Script\_PatternManager.cs" />
     <Compile Include="Assets\Script\_RotFire.cs" />
     <Compile Include="Assets\Script\_SpinFire.cs" />
   </ItemGroup>

@@ -30,7 +30,7 @@ public class _CicleFire : MonoBehaviour
 
     IEnumerator MakeCircle()
     {
-        yield return new WaitForSeconds(0.2f);
+        yield return new WaitForSeconds(0.5f);
         make = true;
     }
 }

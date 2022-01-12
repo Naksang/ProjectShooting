@@ -6,7 +6,7 @@ public class _SpinFire : MonoBehaviour
 {
     public GameObject _bullet;
 
-    int pos = 1;
+    float pos = 0.1f;
 
     void Update()
     {
@@ -21,7 +21,7 @@ public class _SpinFire : MonoBehaviour
 
             bullet.transform.rotation = Quaternion.Euler(0, 0, i + pos);
 
-            pos++;
+            pos += 0.1f;
 
         }
     }
