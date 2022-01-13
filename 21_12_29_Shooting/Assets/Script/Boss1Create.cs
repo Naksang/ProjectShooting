@@ -13,22 +13,15 @@ public class Boss1Create : MonoBehaviour
 
     bool _makeboss = false;
 
-    Transform _player;
-
     GameObject[] _enemy;
+    GameObject[] _bullet;
 
     public GameObject _coin;
 
-
-
-    private void Start()
+    private void OnEnable()
     {
         _enemy = GameObject.FindGameObjectsWithTag("Enemy");
-        _enemy = GameObject.FindGameObjectsWithTag("EnemyFire");
-
-        Destroy(GameObject.FindGameObjectsWithTag("Enemy")[GameObject.FindGameObjectsWithTag("Enemy").Length]);
-        Destroy(GameObject.FindGameObjectsWithTag("EnemyFire")[GameObject.FindGameObjectsWithTag("EnemyFire").Length]);
-
+        _bullet = GameObject.FindGameObjectsWithTag("EnemyFire");
 
         _boss = Instantiate(_enemySource);
         _boss.transform.position = this.transform.position;
@@ -42,7 +35,16 @@ public class Boss1Create : MonoBehaviour
             {
                 GameObject coin = Instantiate(_coin);
                 coin.transform.position = _enemy[i].transform.position;
+                Destroy(_enemy[i]);
             }
+
+            for (int i = 0; i < _bullet.Length; i++)
+            {
+                GameObject coin = Instantiate(_coin);
+                coin.transform.position = _bullet[i].transform.position;
+                Destroy(_bullet[i]);
+            }
+
             _makeboss = true;
         }
 

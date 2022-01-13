@@ -1874,7 +1874,7 @@ MonoBehaviour:
   _createPos: {fileID: 932764674}
   _enemySource: {fileID: 617828032501167560, guid: a9e0df4b88b5efe489f66de8d66cf952,
     type: 3}
-  _coin: {fileID: 8054936717843696916, guid: 2aa7b91e1e78ee94ebe484207cc41127, type: 3}
+  _coin: {fileID: 2257046146165480202, guid: 2aa7b91e1e78ee94ebe484207cc41127, type: 3}
 --- !u!114 &1872656286
 MonoBehaviour:
   m_ObjectHideFlags: 0
