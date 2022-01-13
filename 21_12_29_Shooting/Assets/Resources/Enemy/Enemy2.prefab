@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1197112236072882561}
   - component: {fileID: 1365951955005343460}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: stgpics_testbg_34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 1373987916023713753}
   - component: {fileID: 1378106044647674891}
   - component: {fileID: 8298944938002769544}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Enemy2
   m_TagString: Enemy
   m_Icon: {fileID: 0}

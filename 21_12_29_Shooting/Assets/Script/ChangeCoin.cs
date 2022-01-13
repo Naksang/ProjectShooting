@@ -8,7 +8,7 @@ public class ChangeCoin : MonoBehaviour
 
     GameObject[] _enemy;
 
-    GameObject _coin;
+    public GameObject _coin;
 
     void Start()
     {
@@ -20,7 +20,9 @@ public class ChangeCoin : MonoBehaviour
     {
         for(int i = 0; i< _enemy.Length; i++)
         {
-            
+            GameObject coin = Instantiate(_coin);
+            coin.transform.position = _enemy[i].transform.position;
+            Destroy(_enemy[i]);
         }
     }
 }

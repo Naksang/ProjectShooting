@@ -56,6 +56,7 @@
     <Compile Include="Assets\Script\BGoffset.cs" />
     <Compile Include="Assets\Script\Boss1Create.cs" />
     <Compile Include="Assets\Script\ChangeCoin.cs" />
+    <Compile Include="Assets\Script\CoinMove.cs" />
     <Compile Include="Assets\Script\DestroyGameObj.cs" />
     <Compile Include="Assets\Script\DestroyZone.cs" />
     <Compile Include="Assets\Script\Enemy1Create.cs" />
