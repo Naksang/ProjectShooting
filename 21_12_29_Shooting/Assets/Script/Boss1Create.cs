@@ -20,6 +20,8 @@ public class Boss1Create : MonoBehaviour
 
     private void OnEnable()
     {
+        _makeboss = false;
+
         _enemy = GameObject.FindGameObjectsWithTag("Enemy");
         _bullet = GameObject.FindGameObjectsWithTag("EnemyFire");
 
@@ -49,8 +51,8 @@ public class Boss1Create : MonoBehaviour
         }
 
         else
-        { 
-            if (_boss.transform.position.y > 4.0f) 
+        {
+            if (_boss.transform.position.y > 3.0f)
             {
                 _boss.transform.Translate(Vector3.down * 2.0f * Time.deltaTime);
             }

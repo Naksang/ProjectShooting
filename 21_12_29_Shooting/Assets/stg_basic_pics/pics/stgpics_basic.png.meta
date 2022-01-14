@@ -469,7 +469,7 @@ TextureImporter:
     second: stgpics_basic_154
   - first:
       213: 21300310
-    second: stgpics_basic_155
+    second: barrier_0
   - first:
       213: 21300312
     second: stgpics_basic_156
@@ -478,7 +478,7 @@ TextureImporter:
     second: stgpics_basic_157
   - first:
       213: 21300316
-    second: stgpics_basic_158
+    second: barrier_1
   - first:
       213: 21300318
     second: stgpics_basic_159
@@ -2125,7 +2125,7 @@ TextureImporter:
     second: stgpics_basic_154
   - first:
       213: -2652168593294694491
-    second: stgpics_basic_155
+    second: barrier_0
   - first:
       213: -8815424040353867393
     second: stgpics_basic_156
@@ -2134,7 +2134,7 @@ TextureImporter:
     second: stgpics_basic_157
   - first:
       213: 4891937729707001596
-    second: stgpics_basic_158
+    second: barrier_1
   - first:
       213: -8869554399023249248
     second: stgpics_basic_159
@@ -6588,15 +6588,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_155
+      name: barrier_0
       rect:
         serializedVersion: 2
         x: 138
         y: 10
-        width: 6
+        width: 26
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6651,15 +6651,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stgpics_basic_158
+      name: barrier_1
       rect:
         serializedVersion: 2
-        x: 158
-        y: 10
-        width: 6
-        height: 16
+        x: 172
+        y: 9
+        width: 28
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -6688,27 +6688,6 @@ TextureImporter:
       bones: []
       spriteID: 0a8473a544309e480800000000000000
       internalID: -8869554399023249248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: stgpics_basic_160
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 9
-        width: 7
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df3773f28bd1608c0800000000000000
-      internalID: -4033503739360349187
       vertices: []
       indices: 
       edges: []
@@ -6751,27 +6730,6 @@ TextureImporter:
       bones: []
       spriteID: 7e48182ac21d9ad60800000000000000
       internalID: 7902077010833409255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: stgpics_basic_163
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 9
-        width: 7
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f30e6af3df31c6560800000000000000
-      internalID: 7308238273731027007
       vertices: []
       indices: 
       edges: []
