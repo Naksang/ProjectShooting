@@ -7,7 +7,7 @@ public class BGoffset : MonoBehaviour
     public GameObject _star0;
     public GameObject _star1;
 
-    float _speed = 0.5f;
+    float _speed = 3.0f;
 
     Vector3 dir;
 
@@ -21,13 +21,13 @@ public class BGoffset : MonoBehaviour
         _star0.transform.Translate(dir * _speed * Time.deltaTime);
         _star1.transform.Translate(dir * _speed * Time.deltaTime);
 
-        if(_star0.transform.position.y < -10.0f)
+        if(_star0.transform.position.y < -13.5f)
         {
-            _star0.transform.position = new Vector3(0, 10, 0);
+            _star0.transform.position = new Vector3(0, 13.5f, 0);
         }
-        else if (_star1.transform.position.y < -10.0f)
+        else if (_star1.transform.position.y < -13.5f)
         {
-            _star1.transform.position = new Vector3(0, 10, 0);
+            _star1.transform.position = new Vector3(0, 13.5f, 0);
         }
     }
 }

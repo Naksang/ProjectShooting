@@ -5,7 +5,6 @@ using UnityEngine;
 public class Enemy2Move : MonoBehaviour
 {
     public GameObject _explosion;
-    public GameObject _score;
 
     float _speed = 2.0f;
 
@@ -32,9 +31,6 @@ public class Enemy2Move : MonoBehaviour
 
             GameObject explotion = Instantiate(_explosion);
             explotion.transform.position = this.transform.position;
-
-            GameObject score = Instantiate(_score);
-            score.transform.position = this.transform.position;
 
             Destroy(collision.gameObject);
             Destroy(this.gameObject);
