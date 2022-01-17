@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy1Move : MonoBehaviour
 {
-    public GameObject _explosion;
+    public Animator _animater;
 
     float _speed = 2.0f;
 
@@ -12,6 +12,7 @@ public class Enemy1Move : MonoBehaviour
 
     void Start()
     {
+        _animater = GetComponentInChildren<Animator>();
         dir = Vector3.down;
     }
 
@@ -27,8 +28,7 @@ public class Enemy1Move : MonoBehaviour
             GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
             gm.Score += 100;
 
-            GameObject explotion = Instantiate(_explosion);
-            explotion.transform.position = this.transform.position;
+
 
             Destroy(collision.gameObject);
             Destroy(this.gameObject);
