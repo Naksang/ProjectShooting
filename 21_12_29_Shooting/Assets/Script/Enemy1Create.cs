@@ -16,9 +16,9 @@ public class Enemy1Create : MonoBehaviour
         _initTime += Time.deltaTime;
         if(_initTime > _createTime)
         {
-            int rand = Random.Range(0, 5);
+            int rand = Random.Range(0, 4);
 
-            if(rand == 4)
+            if(rand == 3)
             {
                 GameObject enemy = Instantiate(_enemySource);
                 Destroy(enemy, 10.0f);
@@ -26,7 +26,7 @@ public class Enemy1Create : MonoBehaviour
             }
             else
             {
-                int rand2 = 8 - rand;
+                int rand2 = 7 - rand;
                 GameObject enemy0 = Instantiate(_enemySource);
                 Destroy(enemy0, 10.0f);
                 enemy0.transform.position = _createPos[rand].position;

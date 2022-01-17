@@ -21,13 +21,13 @@ public class BGoffset : MonoBehaviour
         _star0.transform.Translate(dir * _speed * Time.deltaTime);
         _star1.transform.Translate(dir * _speed * Time.deltaTime);
 
-        if(_star0.transform.position.y < -13.5f)
+        if(_star0.transform.position.y < -15.5f)
         {
-            _star0.transform.position = new Vector3(0, 13.5f, 0);
+            _star0.transform.position = new Vector3(0, 4.5f, 0);
         }
-        else if (_star1.transform.position.y < -13.5f)
+        else if (_star1.transform.position.y < -15.5f)
         {
-            _star1.transform.position = new Vector3(0, 13.5f, 0);
+            _star1.transform.position = new Vector3(0, 4.5f, 0);
         }
     }
 }

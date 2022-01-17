@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 3480785361842220873}
   - component: {fileID: 2909197063978864650}
   - component: {fileID: 4585449721461756233}
-  m_Layer: 0
+  - component: {fileID: 4090732316002718942}
+  m_Layer: 9
   m_Name: Enemy1
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46,7 +47,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a6883eced6d7a643b2a1d7a32070deb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemyfire: {fileID: 0}
+  _enemyfire: {fileID: 8123017868903495739, guid: dd7c95d4d26d63446a32472875f97594,
+    type: 3}
 --- !u!114 &2909197063978864650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59,7 +61,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb597e4759555ef42bbaa7c037ea268e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _explosion: {fileID: 0}
+  _animater: {fileID: 5429791626166343071}
 --- !u!61 &4585449721461756233
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -84,8 +86,29 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.8, y: 0.5}
   m_EdgeRadius: 0
+--- !u!50 &4090732316002718942
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5296745693858279739}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 7
 --- !u!1 &5335742803860314323
 GameObject:
   m_ObjectHideFlags: 0
@@ -97,9 +120,7 @@ GameObject:
   - component: {fileID: 5339537048674800355}
   - component: {fileID: 5259462639172799257}
   - component: {fileID: 5429791626166343071}
-  - component: {fileID: 5448367136362479795}
-  - component: {fileID: 5448297260697336719}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Ship1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -115,7 +136,7 @@ Transform:
   m_GameObject: {fileID: 5335742803860314323}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 5339186534251331481}
   - {fileID: 5339378026532929813}
@@ -191,44 +212,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &5448367136362479795
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5335742803860314323}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d8d25ea1a3352494997c6e2a9892aa4f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  removeParts:
-  - {fileID: 5336705145176074089}
-  childrenExplosion: []
---- !u!114 &5448297260697336719
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5335742803860314323}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3409991c5dab7674db44a89f57ac136f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 1877740161113332, guid: d17799e01588538449a360ded5bd038c,
-    type: 3}
-  bulletStartPoses:
-  - {fileID: 5339378026532929813}
-  bulletSortingOrder: 0
-  bulletSpeed: 2
-  fireDelay: 0.5
-  fireInSequence: 0
-  bombPrefab: {fileID: 0}
-  bombStartPos: {fileID: 0}
-  bombSpeed: 0
 --- !u!1 &5336161797738870007
 GameObject:
   m_ObjectHideFlags: 0
@@ -238,7 +221,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5339378026532929813}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: BulletStartPos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -270,7 +253,7 @@ GameObject:
   - component: {fileID: 5334393263549399327}
   - component: {fileID: 5258561129579392961}
   - component: {fileID: 5430573754315569289}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: FlameSmall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -369,7 +352,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5339186534251331481}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Flame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
