@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy1Create : MonoBehaviour
 {
-    float _createTime = 2.0f;
+    float _createTime = 5.0f;
     float _initTime;
 
     public Transform[] _createPos;
@@ -26,7 +26,7 @@ public class Enemy1Create : MonoBehaviour
             }
             else
             {
-                int rand2 = 7 - rand;
+                int rand2 = 6 - rand;
                 GameObject enemy0 = Instantiate(_enemySource);
                 Destroy(enemy0, 10.0f);
                 enemy0.transform.position = _createPos[rand].position;

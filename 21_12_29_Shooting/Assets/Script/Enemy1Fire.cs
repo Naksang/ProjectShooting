@@ -5,6 +5,7 @@ using UnityEngine;
 public class Enemy1Fire : MonoBehaviour
 {
     public GameObject _enemyfire;
+    public Transform _firepos;
     bool _startfire = false;
 
     float _initTime;
@@ -31,7 +32,7 @@ public class Enemy1Fire : MonoBehaviour
             {
                 GameObject fire = Instantiate(_enemyfire);
                 Destroy(fire, 5.0f);
-                fire.transform.position = this.transform.position;
+                fire.transform.position = _firepos.position;
 
                 _initTime = 0;
             }
