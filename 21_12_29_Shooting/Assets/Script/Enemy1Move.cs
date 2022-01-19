@@ -8,8 +8,8 @@ public class Enemy1Move : MonoBehaviour
     SpriteRenderer _rend;
 
     float _speed = 2.0f;
-    int _hp = 2;
-    bool _die = false;
+    float _hp;
+    bool _die;
 
     Vector3 dir;
 
@@ -18,11 +18,29 @@ public class Enemy1Move : MonoBehaviour
         _animater = GetComponentInChildren<Animator>();
         _rend = this.transform.GetChild(0).gameObject.GetComponent<SpriteRenderer>();
         dir = Vector3.down;
+        _hp = 15;
+        _die = false;
     }
 
     void Update()
     {
-        if(!_die)
+        if (_die) return;
+        if(_hp <= 0)
+        {
+            _animater.SetBool("expl", true);
+            _animater = null;
+
+            Enemy1Fire ef = this.GetComponent<Enemy1Fire>();
+            ef.enabled = false;
+
+            Transform fire = this.transform.GetChild(0).transform.GetChild(0);
+
+            fire.gameObject.SetActive(false);
+
+            GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
+            gm.Score += 100;
+        }
+        else if ( _hp > 0)
         {
             this.transform.Translate(dir * _speed * Time.deltaTime);
         }
@@ -32,32 +50,9 @@ public class Enemy1Move : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("PlayerFire"))
         {
-            if (_hp == 0)
-            {
-                _die = true;
-
-                _animater.SetBool("expl", true);
-                _animater = null;
-
-                Enemy1Fire ef = this.GetComponent<Enemy1Fire>();
-                ef.enabled = false;
-
-                Transform fire = this.transform.GetChild(0).transform.GetChild(0);
-
-                fire.gameObject.SetActive(false);
-
-                Destroy(collision.gameObject);
-
-
-                GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
-                gm.Score += 100;
-            }
-            else
-            {
-                _hp--;
-                Destroy(collision.gameObject);
-                StartCoroutine(ChangeColor());
-            }
+            _hp -= collision.gameObject.GetComponent<FireMove>().Damege;
+            Destroy(collision.gameObject);
+            StartCoroutine(ChangeColor());
         }
     }
 

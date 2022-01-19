@@ -24,7 +24,7 @@ public class EnemyCreateManager : MonoBehaviour
         if(_gm.Score != 0 && _gm.Score % 500 == 0)
         {
             _enemy1.enabled = false;
-            _meteor.enabled = false;
+            //_meteor.enabled = false;
 
             _boss1.enabled = true;
         }
