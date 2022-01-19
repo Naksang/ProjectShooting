@@ -33,7 +33,10 @@ public class PlayerMove : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("EnemyFire"))
         {
-            if(_blink == false)
+            LifeManager lm = GameObject.Find("LifeZone").GetComponent<LifeManager>();
+            lm.Damaged();
+
+            if (_blink == false)
             {
                 _blink = true; 
                 StartCoroutine(PlayerBlink());

@@ -66,16 +66,18 @@
     <Compile Include="Assets\Script\DestroyGameObj.cs" />
     <Compile Include="Assets\Script\DestroyZone.cs" />
     <Compile Include="Assets\Script\Enemy1Create.cs" />
+    <Compile Include="Assets\Script\Enemy1Explosion.cs" />
     <Compile Include="Assets\Script\Enemy1Fire.cs" />
     <Compile Include="Assets\Script\Enemy1FireMove.cs" />
     <Compile Include="Assets\Script\Enemy1Move.cs" />
-    <Compile Include="Assets\Script\Enemy2Create.cs" />
-    <Compile Include="Assets\Script\Enemy2Move.cs" />
     <Compile Include="Assets\Script\EnemyCreateManager.cs" />
     <Compile Include="Assets\Script\FireMove.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
+    <Compile Include="Assets\Script\LifeManager.cs" />
+    <Compile Include="Assets\Script\LifeSprite.cs" />
+    <Compile Include="Assets\Script\MeteorCreate.cs" />
+    <Compile Include="Assets\Script\MeteorMove.cs" />
     <Compile Include="Assets\Script\PlayerFire.cs" />
-    <Compile Include="Assets\Script\PlayerLife.cs" />
     <Compile Include="Assets\Script\PlayerMove.cs" />
     <Compile Include="Assets\Script\_BloommingFire.cs" />
     <Compile Include="Assets\Script\_BulletMove.cs" />
@@ -87,6 +89,7 @@
     <Compile Include="Assets\Script\_SpinFire.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Free Minerals Pixel Art Icons\readme.txt" />
     <None Include="Assets\stg_basic_pics\document_and_picturelist\readme.txt" />
   </ItemGroup>
   <ItemGroup>

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy1Create : MonoBehaviour
 {
-    float _createTime = 5.0f;
+    float _createTime = 1.5f;
     float _initTime;
 
     public Transform[] _createPos;

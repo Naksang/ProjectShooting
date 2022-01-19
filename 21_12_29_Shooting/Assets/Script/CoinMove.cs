@@ -38,6 +38,9 @@ public class CoinMove : MonoBehaviour
     {
         if(collision.CompareTag("Player"))
         {
+            GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
+            gm.Score += 100;
+
             Destroy(this.gameObject);
         }
     }

@@ -9,7 +9,7 @@ public class Enemy1Fire : MonoBehaviour
     bool _startfire = false;
 
     float _initTime;
-    float _createTime = 0.5f;
+    float _createTime = 1.5f;
 
     void Start()
     {

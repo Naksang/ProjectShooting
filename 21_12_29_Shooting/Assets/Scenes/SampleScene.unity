@@ -552,6 +552,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 615900875}
+  - component: {fileID: 615900876}
   m_Layer: 0
   m_Name: LifeZone
   m_TagString: Untagged
@@ -576,6 +577,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &615900876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 615900874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc55ba5ca32a249a7734d720deedb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &639314747
 GameObject:
   m_ObjectHideFlags: 0
@@ -1430,8 +1443,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 652f7165b7c30ab46af6c4aad90a639b, type: 2}
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -1529,7 +1542,7 @@ MonoBehaviour:
   _createPos: {fileID: 108338866}
   _enemySource: {fileID: 2238898278066806666, guid: 38d4e30a3c7a3504d833e16e23664b81,
     type: 3}
-  _coin: {fileID: 5445923285582219772, guid: c638c960212e36b48aafbc4b18e7e69b, type: 3}
+  _coin: {fileID: 2950244562455436478, guid: c638c960212e36b48aafbc4b18e7e69b, type: 3}
 --- !u!114 &1872656286
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1549,7 +1562,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1872656282}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fdd522e87e5f8e468088379e6de7791, type: 3}
   m_Name: 
@@ -1557,7 +1570,7 @@ MonoBehaviour:
   _createPos:
   - {fileID: 1153095055}
   - {fileID: 245452240}
-  _enemySource: {fileID: 5296745693858279739, guid: 9c7fb8cfc6d3ada458e00b67dbde4d56,
+  _enemySource: {fileID: 7108874451322471137, guid: 720b91d895ebeea4e903e1ddc31008d0,
     type: 3}
 --- !u!1 &2017825470
 GameObject:
