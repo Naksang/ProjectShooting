@@ -33,15 +33,4 @@ public class CoinMove : MonoBehaviour
 
         _startmove = true;
     }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.CompareTag("Player"))
-        {
-            GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
-            gm.Score += 100;
-
-            Destroy(this.gameObject);
-        }
-    }
 }

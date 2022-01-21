@@ -4,26 +4,22 @@ using UnityEngine;
 
 public class FireManager : MonoBehaviour
 {
-    Animator[] _fireAni = null;
-
     int _initfire;
 
     void Start()
     {
-        _fireAni = GetComponentsInChildren<Animator>();
-
         _initfire = 0;
     }
 
-    void Update()
+    public void PowerUpFire()
     {
-
-        //_fireAni[_initfire].SetBool("fire_off", true);
-
+        this.transform.GetChild(_initfire).GetComponent<FireSprite>().OnSprite();
+        _initfire++;
     }
 
-    public void LevelUpFire()
+    public void PowerDownFire()
     {
-        
+        this.transform.GetChild(_initfire).GetComponent<FireSprite>().OffSprite();
+        _initfire--;
     }
 }

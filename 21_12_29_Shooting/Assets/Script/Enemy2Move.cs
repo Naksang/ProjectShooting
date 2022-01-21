@@ -63,7 +63,7 @@ public class Enemy2Move : MonoBehaviour
 
     IEnumerator DeleyTime()
     {
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(2.5f);
 
         _cbHome = true;
     }

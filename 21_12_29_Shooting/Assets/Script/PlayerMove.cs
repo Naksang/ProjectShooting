@@ -44,6 +44,23 @@ public class PlayerMove : MonoBehaviour
         }    
     }
 
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Coin"))
+        {
+            GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
+            gm.Score += 100;
+            Destroy(collision.gameObject);
+        }
+
+        if(collision.CompareTag("PowerUp"))
+        {
+            FireManager fm = GameObject.Find("FireZone").GetComponent<FireManager>();
+            fm.PowerUpFire();
+            Destroy(collision.gameObject);
+        }
+    }
+
     IEnumerator PlayerBlink()
     {
         _playertrans.gameObject.SetActive(false);

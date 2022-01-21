@@ -1,10 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Boss1Move : MonoBehaviour
 {
+    public float _maxHp;
     public float _hp;
+    public Slider _hpBar;
+
     SpriteRenderer _rend;
 
     public Vector3[] _patrolPos;
@@ -14,7 +18,8 @@ public class Boss1Move : MonoBehaviour
 
     void Start()
     {
-        _hp = 100;
+        _maxHp = 100;
+        _hp = _maxHp;
         _rend = this.transform.GetChild(0).gameObject.GetComponent<SpriteRenderer>();
 
         _patrolPos[0] = this.transform.position;
@@ -29,10 +34,15 @@ public class Boss1Move : MonoBehaviour
 
             GameObject cz = GameObject.Find("CreateZone");
             cz.GetComponent<Enemy1Create>().enabled = true;
-            cz.GetComponent<MeteorCreate>().enabled = true;
+            cz.GetComponent<Enemy2Create>().enabled = true;
+            //cz.GetComponent<MeteorCreate>().enabled = true;
             cz.GetComponent<Boss1Create>().enabled = false;
 
             Destroy(this.gameObject);
+        }
+        else if (_hp > 0)
+        {
+            _hpBar.value = _hp / _maxHp;
         }
         /*
         else if (_hp > 0)

@@ -82,7 +82,6 @@
     <Compile Include="Assets\Script\MeteorMove.cs" />
     <Compile Include="Assets\Script\PlayerFire.cs" />
     <Compile Include="Assets\Script\PlayerMove.cs" />
-    <Compile Include="Assets\Script\PowerUpItem.cs" />
     <Compile Include="Assets\Script\_BloommingFire.cs" />
     <Compile Include="Assets\Script\_BulletMove.cs" />
     <Compile Include="Assets\Script\_BulletWaitMove.cs" />
