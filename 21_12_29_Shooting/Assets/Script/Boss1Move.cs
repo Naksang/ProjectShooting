@@ -5,8 +5,10 @@ using UnityEngine.UI;
 
 public class Boss1Move : MonoBehaviour
 {
+    public Animator _animater;
     public float _maxHp;
     public float _hp;
+    bool _die = false;
     public Slider _hpBar;
 
     SpriteRenderer _rend;
@@ -28,8 +30,15 @@ public class Boss1Move : MonoBehaviour
 
     void Update()
     {
+        if (_die) return;
         if (_hp <= 0)
         {
+            _animater.SetBool("expl", true);
+            _animater = null;
+
+            this.GetComponent<Enemy1Fire>().enabled = false;
+            this.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
+
             GameObject.Find("GameManager").GetComponent<GameManager>().Score += 600;
 
             GameObject cz = GameObject.Find("CreateZone");
@@ -39,39 +48,45 @@ public class Boss1Move : MonoBehaviour
             cz.GetComponent<Boss1Create>().enabled = false;
 
             Destroy(this.gameObject);
+
+
         }
         else if (_hp > 0)
         {
             _hpBar.value = _hp / _maxHp;
-        }
-        /*
-        else if (_hp > 0)
-        {
-            switch (_nowpos)
+
+            switch(_nowpos)
             {
                 case 0:
                     {
-                        if (this.transform.position == _patrolPos[0]) _nowpos = 1;
-                        else
+                        if (Vector2.Distance(this.transform.position, _patrolPos[0]) < 0.1f)
                         {
-                            Vector3 dir = _patrolPos[0] - this.transform.position;
-                            this.transform.position += dir * _speed * Time.deltaTime;
+                            StartCoroutine(StopDeley());
+                            _nowpos = 1;
                         }
-                        break;
+                        else
+                            this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[0], _speed * Time.deltaTime);
                     }
+                    break;
                 case 1:
                     {
-                        if (this.transform.position == _patrolPos[1]) _nowpos = 0;
-                        else
+                        if (Vector2.Distance(this.transform.position, _patrolPos[1]) < 0.1f)
                         {
-                            Vector3 dir = _patrolPos[1] - this.transform.position;
-                            this.transform.position += dir * _speed * Time.deltaTime;
+                            StartCoroutine(StopDeley());
+                            _nowpos = 0;
                         }
-                        break;
+                        else
+                            this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[1], _speed * Time.deltaTime);
                     }
+                    break;
             }
         }
-        */
+    /*
+        MoveTowards
+        SmoothDamp
+        Lerp
+        Slerp
+    */
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -96,5 +111,10 @@ public class Boss1Move : MonoBehaviour
         yield return new WaitForSeconds(0.05f);
 
         _rend.color = new Color(1, 1, 1, 1);
+    }
+
+    IEnumerator StopDeley()
+    {
+        yield return new WaitForSeconds(1.0f);
     }
 }

@@ -750,10 +750,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55f54ad5ee442e34790fff6ceca29259, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _animater: {fileID: 0}
   _maxHp: 0
   _hp: 0
   _hpBar: {fileID: 6811419279750842274}
-  _patrolPos: []
+  _patrolPos:
+  - {x: 3, y: 0, z: 0}
+  - {x: -2, y: 1, z: 0}
 --- !u!61 &9152272207149241298
 BoxCollider2D:
   m_ObjectHideFlags: 0

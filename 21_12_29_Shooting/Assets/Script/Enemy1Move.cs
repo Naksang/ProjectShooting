@@ -30,15 +30,15 @@ public class Enemy1Move : MonoBehaviour
             _animater.SetBool("expl", true);
             _animater = null;
 
-            Enemy1Fire ef = this.GetComponent<Enemy1Fire>();
-            ef.enabled = false;
+            this.GetComponent<Enemy1Fire>().enabled = false;
+            this.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
 
             Transform fire = this.transform.GetChild(0).transform.GetChild(0);
 
             fire.gameObject.SetActive(false);
 
-            GameManager gm = GameObject.Find("GameManager").GetComponent<GameManager>();
-            gm.Score += 100;
+            GameObject.Find("GameManager").GetComponent<GameManager>().Score += 100;
+            _die = true;
         }
         else if ( _hp > 0)
         {
