@@ -15,7 +15,7 @@ public class Boss1Move : MonoBehaviour
 
     public Vector3[] _patrolPos;
     float _speed = 2.0f;
-    int _nowpos = 1;
+    public int _nowpos = 1;
 
 
     void Start()
@@ -55,31 +55,52 @@ public class Boss1Move : MonoBehaviour
         {
             _hpBar.value = _hp / _maxHp;
 
-            switch(_nowpos)
+            if(_nowpos == 0)
             {
-                case 0:
-                    {
-                        if (Vector2.Distance(this.transform.position, _patrolPos[0]) < 0.1f)
-                        {
-                            StartCoroutine(StopDeley());
-                            _nowpos = 1;
-                        }
-                        else
-                            this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[0], _speed * Time.deltaTime);
-                    }
-                    break;
-                case 1:
-                    {
-                        if (Vector2.Distance(this.transform.position, _patrolPos[1]) < 0.1f)
-                        {
-                            StartCoroutine(StopDeley());
-                            _nowpos = 0;
-                        }
-                        else
-                            this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[1], _speed * Time.deltaTime);
-                    }
-                    break;
+                if (Vector2.Distance(this.transform.position, _patrolPos[0]) < 0.01f)
+                {
+                    StartCoroutine(StopDeley());
+                    _nowpos = 1;
+                }
+                else
+                    this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[0], _speed * Time.deltaTime);
             }
+            else if(_nowpos == 1)
+            {
+                if (Vector2.Distance(this.transform.position, _patrolPos[1]) < 0.01f)
+                {
+                    StartCoroutine(StopDeley());
+                    _nowpos = 0;
+                }
+                else
+                    this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[1], _speed * Time.deltaTime);
+            }
+
+            //switch(_nowpos)
+            //{
+            //    case 0:
+            //        {
+            //            if (Vector2.Distance(this.transform.position, _patrolPos[0]) < 0.01f)
+            //            {
+            //                StartCoroutine(StopDeley());
+            //                _nowpos = 1;
+            //            }
+            //            else
+            //                this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[0], _speed * Time.deltaTime);
+            //        }
+            //        break;
+            //    case 1:
+            //        {
+            //            if (Vector2.Distance(this.transform.position, _patrolPos[1]) < 0.01f)
+            //            {
+            //                StartCoroutine(StopDeley());
+            //                _nowpos = 0;
+            //            }
+            //            else
+            //                this.transform.position = Vector3.MoveTowards(transform.position, _patrolPos[1], _speed * Time.deltaTime);
+            //        }
+            //        break;
+            //}
         }
     /*
         MoveTowards
@@ -115,6 +136,6 @@ public class Boss1Move : MonoBehaviour
 
     IEnumerator StopDeley()
     {
-        yield return new WaitForSeconds(1.0f);
+        yield return new WaitForSeconds(0.5f);
     }
 }
